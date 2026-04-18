@@ -3,18 +3,19 @@
  * normalize-statuses.mjs — Clean non-canonical states in applications.md
  *
  * Maps all non-canonical statuses to canonical ones per states.yml:
- *   Evaluada, Aplicado, Respondido, Entrevista, Oferta, Rechazado, Descartado, NO APLICAR
+ *   Evaluated, Applied, Responded, Interview, Offer, Rejected, Discarded, SKIP
  *
  * Also strips markdown bold (**) and dates from the status field,
  * moving DUPLICADO info to the notes column.
  *
- * Run: node career-ops/normalize-statuses.mjs [--dry-run]
+ * Run: node normalize-statuses.mjs [--dry-run]
  */
 
 import { readFileSync, writeFileSync, copyFileSync, existsSync } from 'fs';
 import { join } from 'path';
+import { fileURLToPath } from 'url';
 
-const CAREER_OPS = new URL('.', import.meta.url).pathname;
+const CAREER_OPS = fileURLToPath(new URL('.', import.meta.url));
 // Support both layouts: data/applications.md (boilerplate) and applications.md (original)
 const APPS_FILE = existsSync(join(CAREER_OPS, 'data/applications.md'))
   ? join(CAREER_OPS, 'data/applications.md')
@@ -27,66 +28,56 @@ function normalizeStatus(raw) {
   let s = raw.replace(/\*\*/g, '').trim();
   const lower = s.toLowerCase();
 
-  // DUPLICADO variants → Descartado
+  // Duplicate variants → Discarded
   if (/^duplicado/i.test(s) || /^dup\b/i.test(s)) {
-    return { status: 'Descartado', moveToNotes: raw.trim() };
+    return { status: 'Discarded', moveToNotes: raw.trim() };
   }
 
-  // CERRADA → Descartado
-  if (/^cerrada$/i.test(s)) return { status: 'Descartado' };
+  // Spanish legacy → Discarded
+  if (/^cerrada$/i.test(s)) return { status: 'Discarded' };
+  if (/^cancelada/i.test(s)) return { status: 'Discarded' };
+  if (/^descartada?$/i.test(s)) return { status: 'Discarded' };
 
-  // Cancelada (possibly with date) → Descartado
-  if (/^cancelada/i.test(s)) return { status: 'Descartado' };
+  // Spanish legacy → Rejected
+  if (/^rechazad[ao]$/i.test(s)) return { status: 'Rejected' };
+  if (/^rechazado\s+\d{4}/i.test(s)) return { status: 'Rejected' };
 
-  // Descartada → Descartado
-  if (/^descartada$/i.test(s)) return { status: 'Descartado' };
+  // Spanish legacy → Applied (strip date)
+  if (/^aplicado\s+\d{4}/i.test(s)) return { status: 'Applied' };
 
-  // Rechazada → Rechazado
-  if (/^rechazada$/i.test(s)) return { status: 'Rechazado' };
+  // Spanish legacy → Evaluated
+  if (/^condicional$/i.test(s)) return { status: 'Evaluated' };
+  if (/^hold$/i.test(s)) return { status: 'Evaluated' };
+  if (/^monitor$/i.test(s)) return { status: 'Evaluated' };
+  if (/^evaluar$/i.test(s)) return { status: 'Evaluated' };
+  if (/^evaluada$/i.test(s)) return { status: 'Evaluated' };
+  if (/^verificar$/i.test(s)) return { status: 'Evaluated' };
 
-  // Rechazado with date → Rechazado (strip date)
-  if (/^rechazado\s+\d{4}/i.test(s)) return { status: 'Rechazado' };
+  // Spanish legacy → SKIP
+  if (/geo.?blocker/i.test(s)) return { status: 'SKIP' };
 
-  // Aplicado with date → Aplicado (strip date)
-  if (/^aplicado\s+\d{4}/i.test(s)) return { status: 'Aplicado' };
+  // Repost #NNN → Discarded
+  if (/^repost/i.test(s)) return { status: 'Discarded', moveToNotes: raw.trim() };
 
-  // CONDICIONAL → Evaluada
-  if (/^condicional$/i.test(s)) return { status: 'Evaluada' };
-
-  // HOLD → Evaluada
-  if (/^hold$/i.test(s)) return { status: 'Evaluada' };
-
-  // MONITOR → Evaluada
-  if (/^monitor$/i.test(s)) return { status: 'Evaluada' };
-
-  // EVALUAR → Evaluada
-  if (/^evaluar$/i.test(s)) return { status: 'Evaluada' };
-
-  // Verificar → Evaluada
-  if (/^verificar$/i.test(s)) return { status: 'Evaluada' };
-
-  // GEO BLOCKER → NO APLICAR
-  if (/geo.?blocker/i.test(s)) return { status: 'NO APLICAR' };
-
-  // Repost #NNN → Descartado
-  if (/^repost/i.test(s)) return { status: 'Descartado', moveToNotes: raw.trim() };
-
-  // "—" (em dash, no status) → Descartado
-  if (s === '—' || s === '-' || s === '') return { status: 'Descartado' };
+  // "—" (em dash, no status) → Discarded
+  if (s === '—' || s === '-' || s === '') return { status: 'Discarded' };
 
   // Already canonical — just fix casing/bold
   const canonical = [
-    'Evaluada', 'Aplicado', 'Respondido', 'Entrevista',
-    'Oferta', 'Rechazado', 'Descartado', 'NO APLICAR',
+    'Evaluated', 'Applied', 'Responded', 'Interview',
+    'Offer', 'Rejected', 'Discarded', 'SKIP',
   ];
   for (const c of canonical) {
     if (lower === c.toLowerCase()) return { status: c };
   }
 
   // Aliases from states.yml
-  if (['enviada', 'aplicada', 'applied', 'sent'].includes(lower)) return { status: 'Aplicado' };
-  if (['cerrada', 'descartada'].includes(lower)) return { status: 'Descartado' };
-  if (['no aplicar', 'no_aplicar', 'skip'].includes(lower)) return { status: 'NO APLICAR' };
+  if (['enviada', 'aplicada', 'aplicado', 'applied', 'sent'].includes(lower)) return { status: 'Applied' };
+  if (['cerrada', 'descartada', 'descartado'].includes(lower)) return { status: 'Discarded' };
+  if (['no aplicar', 'no_aplicar', 'skip'].includes(lower)) return { status: 'SKIP' };
+  if (['entrevista'].includes(lower)) return { status: 'Interview' };
+  if (['oferta'].includes(lower)) return { status: 'Offer' };
+  if (['respondido'].includes(lower)) return { status: 'Responded' };
 
   // Unknown — flag it
   return { status: null, unknown: true };

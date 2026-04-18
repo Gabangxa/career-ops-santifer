@@ -30,58 +30,43 @@ The skill applies with EQUAL rigor to ALL target roles. None is primary or secon
 
 | Archetype | Thematic axes | What they buy |
 |-----------|---------------|---------------|
-| **AI Platform / LLMOps Engineer** | Evaluation, observability, reliability, pipelines | Someone who puts AI in production with metrics |
-| **Agentic Workflows / Automation** | HITL, tooling, orchestration, multi-agent | Someone who builds reliable agent systems |
-| **Technical AI Product Manager** | GenAI/Agents, PRDs, discovery, delivery | Someone who translates business to AI product |
-| **AI Solutions Architect** | Hyperautomation, enterprise, integrations | Someone who designs end-to-end AI architectures |
-| **AI Forward Deployed Engineer** | Client-facing, fast delivery, prototyping | Someone who delivers AI solutions to clients fast |
-| **AI Transformation Lead** | Change management, adoption, org enablement | Someone who leads AI transformation in an org |
-
-<!-- [CUSTOMIZE] Edit the archetypes above to match YOUR target roles.
-     For example, if you're a backend engineer, replace with:
-     - Senior Backend Engineer
-     - Staff Platform Engineer
-     - Engineering Manager
-     etc. -->
+| **Institutional Sales / Electronic Trading Sales** | FX, fixed income, equities, platform sales, pipeline ownership | Someone who closes enterprise deals in financial markets |
+| **Sales Director / Head of Sales** | Team leadership, revenue ownership, strategic accounts | Someone who builds and runs a revenue function |
+| **Customer Success / Account Management** | Retention, expansion, adoption, renewal | Someone who grows revenue from existing accounts |
+| **Business Development** | New markets, partnerships, prospecting, outbound | Someone who opens new revenue streams |
+| **Trading Support / Operations** | Platform support, onboarding, FIX/SWIFT, client enablement | Someone who keeps institutional clients running smoothly |
+| **Project / Program Manager** | Implementation, delivery, cross-functional coordination | Someone who lands complex client projects on time |
 
 ### Adaptive Framing by Archetype
 
-> **Concrete metrics: read from `cv.md` + `article-digest.md` at evaluation time. NEVER hardcode numbers here.**
+> **Concrete metrics: read from `cv.md` at evaluation time. NEVER hardcode numbers here.**
 
-| If the role is... | Emphasize about the candidate... | Proof point sources |
-|-------------------|----------------------------------|---------------------|
-| Platform / LLMOps | Production systems builder, observability, evals, closed-loop | article-digest.md + cv.md |
-| Agentic / Automation | Multi-agent orchestration, HITL, reliability, cost | article-digest.md + cv.md |
-| Technical AI PM | Product discovery, PRDs, metrics, stakeholder mgmt | cv.md + article-digest.md |
-| Solutions Architect | System design, integrations, enterprise-ready | article-digest.md + cv.md |
-| Forward Deployed Engineer | Fast delivery, client-facing, prototype to prod | cv.md + article-digest.md |
-| AI Transformation Lead | Change management, team enablement, adoption | cv.md + article-digest.md |
-
-<!-- [CUSTOMIZE] Map YOUR specific projects/articles to each archetype above -->
+| If the role is... | Emphasize about the candidate... | Key proof points |
+|-------------------|----------------------------------|-----------------|
+| Institutional Sales / Electronic Trading | Full sales cycle ownership, FX/equities/fixed income expertise, African market coverage | 20% adoption increase, 32% trading revenue increase (Bloomberg) |
+| Sales Director / Head of Sales | Revenue ownership, pipeline management, cross-functional collaboration | Current Sales Director at SGX FX; progression from support → sales director |
+| Customer Success / Account Management | Retention, renewal, product adoption, escalation handling | 13% revenue increase at SGX FX; key account management at Bloomberg |
+| Business Development | Prospecting, new account identification, onboarding | Full sales life cycle at SGX FX; Southern Africa, Nigeria, Ghana coverage |
+| Trading Support / Operations | FXGO, EMSX, FIX/SWIFT, platform troubleshooting, client onboarding | Bloomberg Electronic Trading Support; FXGO FAQ authorship |
+| Project / Program Manager | Client requirements scoping, implementation coordination, stakeholder management | Cross-functional delivery at SGX FX and Bloomberg |
 
 ### Exit Narrative (use in ALL framings)
 
-<!-- [CUSTOMIZE] Replace with YOUR narrative. Examples:
-     - "Built and sold my SaaS after 5 years. Now focused on applied AI at scale."
-     - "Led engineering at a Series B startup through 10x growth. Now seeking my next challenge."
-     - "Transitioned from consulting to building product. Looking for high-ownership roles."
-     Read from config/profile.yml → narrative.exit_story -->
-
 Use the candidate's exit story from `config/profile.yml` to frame ALL content:
-- **In PDF Summaries:** Bridge from past to future -- "Now applying the same [skill] to [JD domain]."
-- **In STAR stories:** Reference proof points from article-digest.md
-- **In Draft Answers (Section G):** The transition narrative should appear in the first response.
-- **When the JD asks for "entrepreneurial", "ownership", "builder", "end-to-end":** This is the #1 differentiator. Increase match weight.
+- **In PDF Summaries:** Bridge from past to future -- "Now bringing the same [skill] to [JD domain]."
+- **In STAR stories:** Reference proof points from cv.md (13% revenue, 20% adoption, 32% trading revenue)
+- **When the JD asks for "ownership", "hunter", "client-facing", "relationship-driven":** This is the #1 differentiator. Increase match weight.
+- **African market coverage** (South Africa, Nigeria, Ghana) is a rare differentiator -- lead with it for any EMEA or Africa-focused roles.
 
 ### Cross-cutting Advantage
 
-Frame profile as **"Technical builder with real-world proof"** that adapts framing to the role:
-- For PM: "builder who reduces uncertainty with prototypes then productionizes with discipline"
-- For FDE: "builder who delivers fast with observability and metrics from day 1"
-- For SA: "builder who designs end-to-end systems with real integration experience"
-- For LLMOps: "builder who puts AI in production with closed-loop quality systems"
+Frame profile as **"Rare combination of deep product knowledge and institutional sales execution"**:
+- For Sales roles: "understands the technology well enough to demo it, close it, and retain the client"
+- For CSM roles: "bridges client needs directly to product teams — former support background means she speaks both languages"
+- For Trading Support: "has lived both sides — support desk and sales floor — understands what clients actually need"
+- For BD roles: "knows the competitive landscape from Bloomberg and can identify gaps competitors leave"
 
-Convert "builder" into a professional signal, not a "hobby maker". Real proof points make this credible.
+The Bloomberg → SGX FX career arc is a credibility signal: she was trusted with progressively larger accounts and eventually full sales ownership.
 
 ### Portfolio as Proof Point (use in high-value applications)
 
@@ -97,13 +82,15 @@ If the candidate has a live demo/dashboard (check profile.yml), offer access in 
 
 ### Comp Intelligence
 
-<!-- [CUSTOMIZE] Research comp ranges for YOUR target roles and update these ranges -->
+**Candidate target:** ZAR 1,800,000 – 2,300,000 per annum (walk-away: ZAR 1,800,000)
 
 **General guidance:**
-- Use WebSearch for current market data (Glassdoor, Levels.fyi, Blind)
-- Frame by role title, not by skills -- titles determine comp bands
-- Contractor rates are typically 30-50% higher than employee base to account for benefits
-- Geographic arbitrage works for remote roles: lower CoL = better net
+- Use WebSearch for current market data (Glassdoor, LinkedIn Salary, PayScale, eFinancialCareers)
+- For remote roles paying in USD/GBP/EUR: convert to ZAR at current rate and flag if materially above/below target
+- Geographic arbitrage applies: a USD 80K remote role = ~ZAR 1.5M at current rates (flag as below target)
+- USD 100K+ remote roles typically land above ZAR 1.8M — flag as strong comp match
+- For SA-based roles, ZAR 1.8M–2.3M is Director/VP level at a major bank or large fintech
+- Contractor rates are typically 30-50% higher than permanent base to account for benefits
 
 ### Negotiation Scripts
 

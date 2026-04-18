@@ -1,0 +1,525 @@
+# Portal Scanner Configuration — Sokhana Caza
+# Targeting: Institutional Sales, FX/Fintech, Electronic Trading, Remote roles
+#
+# Strategy (3 levels):
+#   1. Playwright → careers_url of each company (real-time, reliable)
+#   2. Greenhouse API → structured JSON (fast, Greenhouse-only)
+#   3. WebSearch with site: filters (broad discovery, may be stale)
+
+# -- Title filter --
+# At least 1 positive must match AND 0 negatives must match (case-insensitive).
+
+title_filter:
+  positive:
+    # -- Sales & BD --
+    - "Sales Director"
+    - "Head of Sales"
+    - "VP Sales"
+    - "VP of Sales"
+    - "Vice President Sales"
+    - "Business Development"
+    - "Account Executive"
+    - "Account Director"
+    - "Account Manager"
+    - "Institutional Sales"
+    - "Electronic Trading Sales"
+    - "Sales Manager"
+    - "Regional Sales"
+    - "Enterprise Sales"
+    # -- Client Success --
+    - "Customer Success"
+    - "Client Success"
+    - "Client Relationship"
+    - "Relationship Manager"
+    # -- Trading & Markets --
+    - "Trading Support"
+    - "Trading Analyst"
+    - "FX Sales"
+    - "FX Specialist"
+    - "Fixed Income Sales"
+    # -- Analysis & Project Management --
+    - "Business Analyst"
+    - "Solutions Consultant"
+    - "Project Manager"
+    - "Program Manager"
+    - "Implementation Manager"
+    - "Delivery Manager"
+    # -- Support --
+    - "Support Specialist"
+    - "Technical Support"
+    - "Client Support"
+    - "Operations Specialist"
+
+  negative:
+    - "Junior"
+    - "Graduate"
+    - "Intern"
+    - "Entry Level"
+    - "Software Engineer"
+    - "Data Engineer"
+    - "Data Scientist"
+    - "Quantitative"
+    - "Quant "
+    - "Developer"
+    - "DevOps"
+    - "Backend"
+    - "Frontend"
+    - "iOS"
+    - "Android"
+
+  seniority_boost:
+    - "Senior"
+    - "Director"
+    - "Head"
+    - "VP"
+    - "Principal"
+    - "Lead"
+
+# -- Location filter --
+# Applied after fetching JDs. Candidate is based in South Africa (Johannesburg, SAST UTC+2).
+# "Remote" alone is NOT sufficient — must be remote-from-SA eligible.
+
+location_filter:
+  # At least one positive signal should appear in the JD or job metadata.
+  # If none found, flag as "unverified — check manually" (do not auto-skip).
+  positive:
+    - "South Africa"
+    - "globally remote"
+    - "global remote"
+    - "work from anywhere"
+    - "anywhere in the world"
+    - "worldwide"
+    - "EMEA"
+    - "Africa"
+    - "international"
+    - "all time zones"
+    - "any location"
+  # If any of these appear, the role is likely US/Americas-only — skip or flag.
+  negative:
+    - "must be located in the US"
+    - "must be located in the United States"
+    - "US only"
+    - "United States only"
+    - "US-based only"
+    - "must reside in the US"
+    - "must be based in the US"
+    - "authorized to work in the US"
+    - "US work authorization required"
+    - "must have US work authorization"
+    - "Americas only"
+    - "North America only"
+    - "Canada or US"
+    - "US or Canada only"
+
+# -- Search queries --
+
+search_queries:
+
+  # -- HiringCafe --
+  - name: HiringCafe — Sales Director & BD Fintech
+    query: 'site:hiringcafe.com "Sales Director" OR "Head of Sales" OR "Business Development" fintech OR "financial markets" ("South Africa" OR EMEA OR "globally remote" OR worldwide OR "work from anywhere")'
+    enabled: true
+
+  - name: HiringCafe — Account Executive & Trading
+    query: 'site:hiringcafe.com "Account Executive" OR "Account Manager" OR "Trading Support" fintech ("South Africa" OR EMEA OR "globally remote" OR worldwide)'
+    enabled: true
+
+  - name: HiringCafe — Customer Success Fintech
+    query: 'site:hiringcafe.com "Customer Success" OR "Client Success" fintech OR SaaS ("South Africa" OR EMEA OR "globally remote" OR worldwide)'
+    enabled: true
+
+  # -- WeWorkRemotely --
+  - name: WeWorkRemotely — Sales & BD
+    query: 'site:weworkremotely.com "Sales Director" OR "Account Executive" OR "Business Development" fintech OR "financial services" ("South Africa" OR EMEA OR "globally remote" OR worldwide)'
+    enabled: true
+
+  - name: WeWorkRemotely — Customer Success
+    query: 'site:weworkremotely.com "Customer Success Manager" OR "Account Manager" fintech OR SaaS ("South Africa" OR EMEA OR "globally remote" OR worldwide)'
+    enabled: true
+
+  # -- Remotive --
+  - name: Remotive — Sales & Customer Success
+    query: 'site:remotive.com "Sales Director" OR "Account Executive" OR "Customer Success" fintech OR "financial markets" ("South Africa" OR EMEA OR "globally remote" OR worldwide)'
+    enabled: true
+
+  # -- Greenhouse (fintech companies) --
+  - name: Greenhouse — Fintech Sales Director
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "Sales Director" OR "Head of Sales" fintech OR "capital markets" OR "electronic trading" ("South Africa" OR EMEA OR "globally remote" OR worldwide)'
+    enabled: true
+
+  - name: Greenhouse — Account Executive & CSM Fintech
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "Account Executive" OR "Customer Success Manager" fintech OR "financial markets" ("South Africa" OR EMEA OR "globally remote" OR worldwide)'
+    enabled: true
+
+  # -- Crypto job boards --
+  - name: CryptoJobsList — CSM & Support
+    query: 'site:cryptojobslist.com "Customer Success" OR "Account Executive" OR "Support" OR "Project Manager" ("South Africa" OR EMEA OR "globally remote" OR worldwide)'
+    enabled: true
+
+  - name: Web3.career — CSM & Account Executive
+    query: 'site:web3.career "Customer Success" OR "Account Executive" OR "Support Specialist" OR "Project Manager" ("South Africa" OR EMEA OR "globally remote" OR worldwide)'
+    enabled: true
+
+  - name: Greenhouse — Crypto CSM & Support
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "Customer Success" OR "Account Executive" OR "Support Specialist" OR "Project Manager" crypto OR blockchain OR "digital assets" ("South Africa" OR EMEA OR "globally remote" OR worldwide)'
+    enabled: true
+
+  # NOTE: Lever excluded — job seeker links go stale with no reliable portal
+  # Use company direct career pages or Greenhouse/Ashby alternatives instead
+
+# -- Tracked companies --
+# Career pages checked directly by the scanner.
+
+tracked_companies:
+
+  # -- Global Financial Data & Markets Infrastructure --
+
+  - name: Bloomberg
+    careers_url: https://www.bloomberg.com/careers
+    scan_method: websearch
+    scan_query: 'site:bloomberg.com/careers "Sales" OR "Account Manager" OR "Customer Success" remote'
+    notes: "Former employer. Strong reference network."
+    enabled: true
+
+  - name: LSEG (Refinitiv)
+    careers_url: https://careers.lseg.com
+    scan_method: websearch
+    scan_query: 'site:careers.lseg.com "Sales" OR "Account Manager" OR "Business Development" "FX" OR "trading" OR "data" remote'
+    notes: "London. Direct Bloomberg competitor. EMEA friendly."
+    enabled: true
+
+  - name: FactSet
+    careers_url: https://job-boards.greenhouse.io/factset
+    api: https://boards-api.greenhouse.io/v1/boards/factset/jobs
+    notes: "Financial data. Greenhouse. Global."
+    enabled: true
+
+  - name: S&P Global (IHS Markit)
+    careers_url: https://careers.spglobal.com
+    scan_method: websearch
+    scan_query: 'site:careers.spglobal.com "Sales" OR "Account Manager" OR "Business Development" "FX" OR "markets" OR "data" remote'
+    notes: "Merged IHS Markit. Strong EMEA presence."
+    enabled: true
+
+  - name: Tradeweb
+    careers_url: https://www.tradeweb.com/careers
+    scan_method: websearch
+    scan_query: 'site:tradeweb.com/careers "Sales" OR "Account" OR "Client" OR "Trading Support"'
+    notes: "Electronic fixed income & FX marketplace."
+    enabled: true
+
+  - name: MarketAxess
+    careers_url: https://www.marketaxess.com/careers
+    scan_method: websearch
+    scan_query: 'site:marketaxess.com/careers "Sales" OR "Account" OR "Client" OR "Business Development"'
+    notes: "Electronic bond trading. NYC + London."
+    enabled: true
+
+  - name: ION Group
+    careers_url: https://iongroup.com/careers
+    scan_method: websearch
+    scan_query: 'site:iongroup.com/careers "Sales" OR "Account Manager" OR "Customer Success" OR "Business Analyst"'
+    notes: "Trading & treasury software. EMEA friendly."
+    enabled: true
+
+  - name: Murex
+    careers_url: https://www.murex.com/en/careers
+    scan_method: websearch
+    scan_query: 'site:murex.com/en/careers "Sales" OR "Account Manager" OR "Business Analyst" OR "Client"'
+    notes: "Paris. Capital markets software. Strong EMEA."
+    enabled: true
+
+  - name: Finastra
+    careers_url: https://www.finastra.com/careers
+    scan_method: websearch
+    scan_query: 'site:finastra.com/careers "Sales" OR "Account Manager" OR "Customer Success" OR "Business Development" remote'
+    notes: "London. Banking software. FX/Treasury modules."
+    enabled: true
+
+  - name: FIS Global
+    careers_url: https://www.fisglobal.com/en/about-fis/careers
+    scan_method: websearch
+    scan_query: '"FIS" site:fisglobal.com "Sales" OR "Account" OR "Client" OR "Business Development" remote'
+    notes: "Orlando. Payment & capital markets tech."
+    enabled: true
+
+  - name: Broadridge
+    careers_url: https://www.broadridge.com/careers
+    scan_method: websearch
+    scan_query: 'site:broadridge.com/careers "Sales" OR "Account" OR "Client" OR "Business Development" remote'
+    notes: "NYC. Post-trade & investor comms."
+    enabled: true
+
+  - name: Cboe Global Markets
+    careers_url: https://www.cboe.com/careers
+    scan_method: websearch
+    scan_query: 'site:cboe.com/careers "Sales" OR "Account" OR "Business Development" OR "Client"'
+    notes: "Options & FX exchange operator."
+    enabled: true
+
+  - name: CME Group
+    careers_url: https://careers.cmegroup.com
+    scan_method: websearch
+    scan_query: 'site:careers.cmegroup.com "Sales" OR "Account" OR "Business Development" OR "Client"'
+    notes: "Derivatives exchange. Chicago + remote."
+    enabled: true
+
+  - name: Interactive Brokers
+    careers_url: https://www.interactivebrokers.com/en/trading/careers.php
+    scan_method: websearch
+    scan_query: 'site:interactivebrokers.com "Sales" OR "Account Manager" OR "Client Services" OR "Business Development"'
+    notes: "Prime brokerage. Institutional focus."
+    enabled: true
+
+  - name: Saxo Bank
+    careers_url: https://www.home.saxo/en-gb/accounts/openaccount/careers
+    scan_method: websearch
+    scan_query: '"saxo bank" careers "Sales" OR "Account Manager" OR "Business Development" OR "Client" remote'
+    notes: "Copenhagen. Online trading bank. Institutional FX."
+    enabled: true
+
+  # -- Fintech Payments & FX --
+
+  - name: Wise (formerly TransferWise)
+    careers_url: https://job-boards.greenhouse.io/wise
+    api: https://boards-api.greenhouse.io/v1/boards/wise/jobs
+    notes: "London. International payments. Remote-friendly."
+    enabled: true
+
+  - name: Currencycloud (Visa)
+    careers_url: https://www.currencycloud.com/company/careers
+    scan_method: websearch
+    scan_query: '"currencycloud" careers "Sales" OR "Account Manager" OR "Business Development" OR "FX"'
+    notes: "London. B2B FX payments API."
+    enabled: true
+
+  - name: Banking Circle
+    careers_url: https://www.bankingcircle.com/careers
+    scan_method: websearch
+    scan_query: 'site:bankingcircle.com/careers "Sales" OR "Account" OR "Business Development"'
+    notes: "Copenhagen. Payments infrastructure bank."
+    enabled: true
+
+
+  # -- South Africa: Banks & Fintech --
+
+  - name: Investec
+    careers_url: https://www.investec.com/en_za/careers.html
+    scan_method: websearch
+    scan_query: '"investec" careers "Sales" OR "Account Manager" OR "Business Development" OR "Trading" Johannesburg OR remote'
+    notes: "SA private bank. Strong institutional desk."
+    enabled: true
+
+  - name: Standard Bank
+    careers_url: https://careers.standardbank.co.za
+    scan_method: websearch
+    scan_query: 'site:careers.standardbank.co.za "Sales" OR "Account" OR "Business Development" OR "Trading"'
+    notes: "Largest SA bank. FX and markets desk."
+    enabled: true
+
+  - name: Absa
+    careers_url: https://absacareers.absa.co.za
+    scan_method: websearch
+    scan_query: 'site:absacareers.absa.co.za "Sales" OR "Account" OR "Business Development" OR "Trading"'
+    notes: "SA. CIB and Markets division."
+    enabled: true
+
+  - name: Nedbank
+    careers_url: https://careers.nedbank.co.za
+    scan_method: websearch
+    scan_query: 'site:careers.nedbank.co.za "Sales" OR "Account" OR "Business Development" OR "Trading"'
+    notes: "SA. Corporate banking and markets."
+    enabled: true
+
+  - name: Stitch Money
+    careers_url: https://stitch.money/careers
+    scan_method: websearch
+    scan_query: '"stitch money" careers "Sales" OR "Account" OR "Business Development"'
+    notes: "Cape Town. SA open banking / payments API."
+    enabled: true
+
+  - name: Peach Payments
+    careers_url: https://www.peachpayments.com/careers
+    scan_method: websearch
+    scan_query: '"peach payments" careers "Sales" OR "Account" OR "Business Development"'
+    notes: "Cape Town. SA payment gateway."
+    enabled: true
+
+  - name: Ozow
+    careers_url: https://ozow.com/careers
+    scan_method: websearch
+    scan_query: '"ozow" careers "Sales" OR "Account" OR "Business Development"'
+    notes: "Johannesburg. SA EFT payments."
+    enabled: true
+
+  # -- Remote-first SaaS (financial / B2B) --
+
+  - name: Brex
+    careers_url: https://www.brex.com/careers
+    scan_method: websearch
+    scan_query: 'site:brex.com/careers "Account Executive" OR "Customer Success" OR "Sales" remote'
+    notes: "Remote-first. B2B fintech / corporate spend."
+    enabled: true
+
+  - name: Airwallex
+    careers_url: https://job-boards.greenhouse.io/airwallex
+    api: https://boards-api.greenhouse.io/v1/boards/airwallex/jobs
+    notes: "Global payments & FX. Remote-friendly. EMEA presence."
+    enabled: true
+
+  - name: Nium
+    careers_url: https://job-boards.greenhouse.io/nium
+    api: https://boards-api.greenhouse.io/v1/boards/nium/jobs
+    notes: "Singapore. Global payments infrastructure. Remote."
+    enabled: true
+
+  - name: Ripple
+    careers_url: https://ripple.com/careers
+    scan_method: websearch
+    scan_query: 'site:ripple.com/careers "Sales" OR "Account Manager" OR "Business Development" remote'
+    notes: "Cross-border payments. Remote-friendly."
+    enabled: true
+
+  - name: Tipalti
+    careers_url: https://job-boards.greenhouse.io/tipalti
+    api: https://boards-api.greenhouse.io/v1/boards/tipalti/jobs
+    notes: "Remote. AP automation fintech. Strong CSM/AE hiring."
+    enabled: true
+
+  - name: Paddle
+    careers_url: https://job-boards.greenhouse.io/paddle
+    api: https://boards-api.greenhouse.io/v1/boards/paddle/jobs
+    notes: "London + remote. Payments for SaaS. EMEA-friendly."
+    enabled: true
+
+  # -- Crypto & Blockchain --
+
+
+  - name: Chainalysis
+    careers_url: https://job-boards.greenhouse.io/chainalysis
+    api: https://boards-api.greenhouse.io/v1/boards/chainalysis/jobs
+    notes: "Remote. Blockchain analytics. Large CSM and AE hiring."
+    enabled: true
+
+  - name: Fireblocks
+    careers_url: https://job-boards.greenhouse.io/fireblocks
+    api: https://boards-api.greenhouse.io/v1/boards/fireblocks/jobs
+    notes: "Remote. Digital asset custody infrastructure. Strong EMEA team."
+    enabled: true
+
+
+  - name: Anchorage Digital
+    careers_url: https://www.anchorage.com/careers
+    scan_method: websearch
+    scan_query: '"anchorage digital" careers "Customer Success" OR "Account Manager" OR "Business Development" OR "Support" remote'
+    notes: "Remote. Institutional digital asset custody. Chartered crypto bank."
+    enabled: true
+
+  - name: Paxos
+    careers_url: https://job-boards.greenhouse.io/paxos
+    api: https://boards-api.greenhouse.io/v1/boards/paxos/jobs
+    notes: "Remote. Regulated blockchain infrastructure."
+    enabled: true
+
+  - name: Luno
+    careers_url: https://job-boards.greenhouse.io/luno
+    api: https://boards-api.greenhouse.io/v1/boards/luno/jobs
+    notes: "SA origin (DCG-owned). Africa + EMEA. Strong local relevance."
+    enabled: true
+
+  - name: VALR
+    careers_url: https://www.valr.com/careers
+    scan_method: websearch
+    scan_query: '"valr" careers "Customer Success" OR "Account" OR "Support" OR "Project Manager"'
+    notes: "Johannesburg. Largest SA crypto exchange. Direct local relevance."
+    enabled: true
+
+  - name: Binance
+    careers_url: https://www.binance.com/en/careers
+    scan_method: websearch
+    scan_query: 'site:binance.com/en/careers "Customer Success" OR "Account Manager" OR "Business Development" OR "Support" OR "Project Manager" remote'
+    notes: "Remote. World's largest exchange. Large support and CSM org."
+    enabled: true
+
+  - name: OKX
+    careers_url: https://www.okx.com/careers
+    scan_method: websearch
+    scan_query: 'site:okx.com/careers "Customer Success" OR "Account Manager" OR "Support" OR "Project Manager" remote'
+    notes: "Remote. Top-3 global exchange. EMEA hiring."
+    enabled: true
+
+  # -- Remote-first Tech --
+
+  - name: PostHog
+    careers_url: https://posthog.com/careers
+    scan_method: websearch
+    scan_query: '"posthog" careers "Customer Success" OR "Account Executive" OR "Sales" OR "Account Manager" OR "Support"'
+    notes: "Remote-first. Open source product analytics. Hires globally including Africa."
+    enabled: true
+
+  - name: Mercury
+    careers_url: https://job-boards.greenhouse.io/mercury
+    api: https://boards-api.greenhouse.io/v1/boards/mercury/jobs
+    notes: "Remote. Banking for startups. CSM and sales roles."
+    enabled: true
+
+  - name: Zapier
+    careers_url: https://zapier.com/jobs
+    scan_method: websearch
+    scan_query: 'site:zapier.com/jobs "Customer Success" OR "Account Executive" OR "Sales" OR "Support" OR "Account Manager"'
+    notes: "100% remote. Automation platform. Strong CSM and support hiring."
+    enabled: true
+
+  - name: Runn
+    careers_url: https://www.runn.io/careers
+    scan_method: websearch
+    scan_query: '"runn" careers "Customer Success" OR "Account Manager" OR "Sales" OR "Support"'
+    notes: "Remote-first. Resource planning software. NZ-founded, globally remote."
+    enabled: true
+
+  - name: Automattic
+    careers_url: https://automattic.com/work-with-us
+    scan_method: websearch
+    scan_query: 'site:automattic.com/work-with-us "Customer Success" OR "Account Manager" OR "Sales" OR "Support" OR "Business Development"'
+    notes: "100% distributed. WordPress.com, WooCommerce, Tumblr. Hires globally."
+    enabled: true
+
+  - name: 37signals
+    careers_url: https://37signals.com/jobs
+    scan_method: websearch
+    scan_query: '"37signals" jobs "Customer Success" OR "Support" OR "Account" OR "Sales"'
+    notes: "Remote-only. Basecamp + HEY. Small team, occasional openings."
+    enabled: true
+
+  - name: Atlassian
+    careers_url: https://www.atlassian.com/company/careers
+    scan_method: websearch
+    scan_query: 'site:atlassian.com/company/careers "Customer Success" OR "Account Executive" OR "Sales" OR "Account Manager" OR "Business Development" remote'
+    notes: "Remote-friendly (TEAM Anywhere). Jira, Confluence. EMEA roles available."
+    enabled: true
+
+  - name: GitHub
+    careers_url: https://github.com/about/careers
+    scan_method: websearch
+    scan_query: '"github" careers "Customer Success" OR "Account Executive" OR "Sales" OR "Account Manager" OR "Support" remote'
+    notes: "Remote-friendly. Microsoft subsidiary. Strong CSM and enterprise sales org."
+    enabled: true
+
+  - name: Elastic
+    careers_url: https://job-boards.greenhouse.io/elastic
+    api: https://boards-api.greenhouse.io/v1/boards/elastic/jobs
+    notes: "Distributed-first. Elasticsearch/Kibana. Strong EMEA and global remote hiring."
+    enabled: true
+
+  - name: Oyster HR
+    careers_url: https://job-boards.greenhouse.io/oyster
+    api: https://boards-api.greenhouse.io/v1/boards/oyster/jobs
+    notes: "Remote-first by design. Global employment platform. Strong CSM and CS hiring."
+    enabled: true
+
+  - name: Deel
+    careers_url: https://job-boards.greenhouse.io/deel
+    api: https://boards-api.greenhouse.io/v1/boards/deel/jobs
+    notes: "Remote-first. Global HR and payroll platform. Large CSM and sales org. Hires globally."
+    enabled: true
+

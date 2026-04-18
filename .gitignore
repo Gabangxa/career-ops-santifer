@@ -1,7 +1,6 @@
 # Personal data (user fills these)
 data/applications.md
-data/pipeline.md
-data/scan-history.tsv
+data/applications.md.bak
 reports/*.md
 !reports/.gitkeep
 output/*
@@ -15,10 +14,12 @@ batch/tracker-additions/*.tsv
 jds/*
 !jds/.gitkeep
 
-# User config
+# User config (sensitive)
 config/profile.yml
-portals.yml
 cv.md
+
+# data/pipeline.md, data/scan-history.tsv, and portals.yml are tracked
+# so remote scan agents can read/write scan state via git
 
 # Generated
 .resolved-prompt-*
