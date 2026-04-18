@@ -1,0 +1,36 @@
+# Personal data (user fills these)
+data/applications.md
+data/applications.md.bak
+reports/*.md
+!reports/.gitkeep
+output/*
+!output/.gitkeep
+batch/logs/*
+!batch/logs/.gitkeep
+batch/batch-state.tsv
+batch/batch-input.tsv
+batch/tracker-additions/*.tsv
+!batch/tracker-additions/.gitkeep
+jds/*
+!jds/.gitkeep
+
+# User config (sensitive)
+config/profile.yml
+cv.md
+
+# data/pipeline.md, data/scan-history.tsv, and portals.yml are tracked
+# so remote scan agents can read/write scan state via git
+
+# Generated
+.resolved-prompt-*
+node_modules/
+
+# OS
+.DS_Store
+*.mov
+*.mp4
+
+# Claude Code local
+.claude/settings.local.json
+.claude/memory/
+career-dashboard
