@@ -60,3 +60,22 @@
 - [ ] https://remotive.com/remote/jobs/sales-business/strategic-account-executive-financial-institutions-3816668 | Equifax | Strategic Account Executive - Financial Institutions
 - [ ] https://remotive.com/remote/jobs/sales-business/account-executive-4308817 | Kinective | Account Executive (Banks & Credit Unions)
 - [ ] https://web3.career/strategic-customer-success-manager-quicknode/30866 | QuickNode | Strategic Customer Success Manager
+
+## Added 2026-04-19
+
+- [ ] https://remotive.com/remote/jobs/sales-business/account-executive-4389818 | Figment | Account Executive
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/5670974004 | Alpaca | Customer Success Manager – EMEA
+- [ ] https://boards.greenhouse.io/alpaca/jobs/5333962004 | Alpaca | Customer Success Manager (Global)
+- [ ] https://boards.greenhouse.io/addepar1/jobs/5081149002 | Addepar | Director, Sales
+- [ ] https://remotive.com/remote/jobs/sales-business/director-product-account-executive-ii-2836587 | Fiserv | Director, Product Account Executive II
+- [ ] https://job-boards.greenhouse.io/blockchain/jobs/7210782 | Blockchain.com | Customer Success Senior Associate
+- [ ] https://job-boards.greenhouse.io/altscore/jobs/5078798008 | AltScore | Customer Success Manager (Enterprise / AR)
+- [ ] https://web3.career/scaled-customer-success-manager-pulley/141811 | Pulley | Scaled Customer Success Manager
+- [ ] https://remotive.com/remote/jobs/sales-business/account-executive-national-financial-sales-4066837 | Unknown (unverified) | Account Executive, National Financial Sales
+- [ ] https://job-boards.greenhouse.io/alphasense/jobs/8448199002 | AlphaSense | Customer Success Manager, Financial Services
+- [ ] https://boards.greenhouse.io/stripe/jobs/7639872 | Stripe | Customer Success Manager, Fintech/BNPL
+- [ ] https://job-boards.greenhouse.io/ridgeline/jobs/7689638003 | Ridgeline | Senior Customer Success Manager
+- [ ] https://job-boards.greenhouse.io/taxbit/jobs/5718913004 | TaxBit | Enterprise Customer Success Manager
+- [ ] https://job-boards.greenhouse.io/entersekt/jobs/5765346004 | Entersekt | Customer Success Manager (AMER)
+- [ ] https://job-boards.greenhouse.io/carta/jobs/7491515003 | Carta | Director, Business Development – Private Equity
+- [ ] https://boards.greenhouse.io/similarweb/jobs/3630454 | Similarweb | Sales Manager, Investors (Enterprise)
