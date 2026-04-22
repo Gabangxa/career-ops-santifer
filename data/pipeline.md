@@ -79,3 +79,13 @@
 - [ ] https://job-boards.greenhouse.io/entersekt/jobs/5765346004 | Entersekt | Customer Success Manager (AMER)
 - [ ] https://job-boards.greenhouse.io/carta/jobs/7491515003 | Carta | Director, Business Development – Private Equity
 - [ ] https://boards.greenhouse.io/similarweb/jobs/3630454 | Similarweb | Sales Manager, Investors (Enterprise)
+
+## Added 2026-04-22
+
+- [ ] https://boards.greenhouse.io/xapo61/jobs/5833019003 | Xapo Bank | Customer Success Advisor - Asia (Remote - Work from Anywhere)
+- [ ] https://job-boards.greenhouse.io/figment/jobs/5234859004 | Figment | Blockchain Customer Support
+- [ ] https://job-boards.greenhouse.io/stratoslabsinc/jobs/4218857009 | Pillar | Customer Success Manager
+- [ ] https://remotive.com/remote/jobs/sales-business/account-executive-coupa-pay-invoice-automation-expenses-sales-4269180 | Coupa Software | Account Executive - Coupa Pay
+- [ ] https://boards.greenhouse.io/coconutsoftware/jobs/5362707004 | Coconut Software | Senior Customer Success Manager
+- [ ] https://weworkremotely.com/remote-jobs/socialware-head-of-customer-success-operations | Socialware | Head of Customer Success & Operations
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4614158006 | Chainguard | Customer Success Manager - Commercial
