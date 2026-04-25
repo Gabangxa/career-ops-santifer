@@ -89,3 +89,19 @@
 - [ ] https://boards.greenhouse.io/coconutsoftware/jobs/5362707004 | Coconut Software | Senior Customer Success Manager
 - [ ] https://weworkremotely.com/remote-jobs/socialware-head-of-customer-success-operations | Socialware | Head of Customer Success & Operations
 - [ ] https://job-boards.greenhouse.io/chainguard/jobs/4614158006 | Chainguard | Customer Success Manager - Commercial
+
+## Added 2026-04-25
+
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/5791151004 | Mercury | Senior Manager - Account Executives
+- [ ] https://web3.career/affiliate-business-development-manager-okx/33622 | OKX | Affiliate Business Development Manager
+- [ ] https://job-boards.greenhouse.io/setpoint/jobs/4228547007 | Setpoint | Capital Solutions Manager
+- [ ] https://remotive.com/remote/jobs/customer-service/customer-success-manager-4187566 | spendbase | Customer Success Manager
+- [ ] https://boards.greenhouse.io/remotecom/jobs/5729393003 | Remote | Senior Account Executive - EMEA - Contractor Management
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4628415006 | Chainguard | Senior Customer Success Manager - EMEA
+- [ ] https://job-boards.greenhouse.io/oyster/jobs/5258917004 | Oyster | Senior Customer Success Manager (Fixed Term Cover)
+- [ ] https://job-boards.greenhouse.io/wholesail/jobs/7710197003 | Wholesail | Customer Success Manager
+- [ ] https://remotive.com/remote/jobs/sales-business/senior-account-executive-financial-services-4460864 | Precisely | Senior Account Executive - Financial Services
+- [ ] https://remotive.com/remote/jobs/customer-service/customer-success-manager-4458498 | Workana | Customer Success Manager
+- [ ] https://job-boards.greenhouse.io/customerio/jobs/7600074 | Customer.io | Account Manager, EMEA (2026 Opportunities)
+- [ ] https://remotive.com/remote/jobs/customer-service/strategic-customer-success-manager-4304912 | SimplePractice | Strategic Customer Success Manager
+- [ ] https://remotive.com/remote/jobs/customer-service/director-client-success-and-renewal-4273727 | OfficeSpace Software | Director, Client Success and Renewal
