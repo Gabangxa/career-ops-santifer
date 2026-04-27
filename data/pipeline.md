@@ -105,3 +105,34 @@
 - [ ] https://job-boards.greenhouse.io/customerio/jobs/7600074 | Customer.io | Account Manager, EMEA (2026 Opportunities)
 - [ ] https://remotive.com/remote/jobs/customer-service/strategic-customer-success-manager-4304912 | SimplePractice | Strategic Customer Success Manager
 - [ ] https://remotive.com/remote/jobs/customer-service/director-client-success-and-renewal-4273727 | OfficeSpace Software | Director, Client Success and Renewal
+
+## Added 2026-04-27
+
+- [ ] https://job-boards.greenhouse.io/customerio/jobs/7807869 | Customer.io | Contract Customer Success Manager, EMEA
+- [ ] https://job-boards.greenhouse.io/customerio/jobs/6100868 | Customer.io | Mid-Market Account Executive, EMEA
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5153511008 | Anthropic | Customer Success Manager, Beneficial Deployments, EMEA
+- [ ] https://job-boards.greenhouse.io/onapsis/jobs/8474429002 | Onapsis | Senior Customer Success Manager (EMEA)
+- [ ] https://job-boards.greenhouse.io/commvault/jobs/4929281008 | Commvault | Manager, Customer Success (EMEA)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5161975008 | Anthropic | Account Executive, Beneficial Deployments (EMEA)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5161988008 | Anthropic | Account Executive, Beneficial Deployments (Portuguese Speaking) [⚠️ verify SA eligibility]
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4829187007 | Temporal Technologies | Account Executive, Commercial (EMEA)
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/6499027003 | Remote | Account Executive, SMB - Middle East and North Africa
+- [ ] https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Head-of-Sales---EMEA--Trading-Workspace_R0112798-1 | LSEG | Sales Director – EMEA, Trading Workspace [⚠️ London-based hybrid, verify SA eligibility]
+- [ ] https://ripple.com/careers/all-jobs/job/7783928/?gh_jid=7783928 | Ripple | Director, Sales [⚠️ Dubai-based, verify remote options]
+- [ ] https://ripple.com/careers/all-jobs/job/7572317/?gh_jid=7572317 | Ripple | Senior Business Development Manager - RippleX [⚠️ verify SA eligibility]
+- [ ] https://ripple.com/careers/all-jobs/job/7572250/ | Ripple | Business Development Senior Director - Capital Markets [⚠️ verify SA eligibility]
+- [ ] https://ripple.com/careers/all-jobs/job/7563733/ | Ripple | Business Development Director [⚠️ verify SA eligibility]
+- [ ] https://posthog.com/careers/technical-customer-success-manager | PostHog | Technical Customer Success Manager
+- [ ] https://posthog.com/careers/technical-account-manager | PostHog | Technical Account Manager
+- [ ] https://posthog.com/careers/technical-account-executive | PostHog | Technical Account Executive
+- [ ] https://weworkremotely.com/remote-jobs/hotjar-customer-success-manager-emea | Hotjar | Customer Success Manager (EMEA)
+- [ ] https://weworkremotely.com/remote-jobs/float-customer-success-specialist | Float | Customer Success Specialist (EMEA)
+- [ ] https://remotive.com/remote/jobs/sales-business/senior-account-executive-3391783 | Elite Technology | Senior Account Executive (EMEA)
+- [ ] https://remotive.com/remote/jobs/sales-business/account-executive-customer-success-4307699 | EQL Tech | Account Executive & Customer Success
+- [ ] https://remotive.com/remote/jobs/sales-business/senior-account-executive-4494367 | Referral Board | Senior Account Executive
+- [ ] https://remotive.com/remote/jobs/sales-business/enterprise-account-executive-4238452 | Exiger | Enterprise Account Executive (EMEA)
+- [ ] https://remotive.com/remote/jobs/sales-business/senior-account-executive-strategic-4482006 | Addepar | Senior Account Executive - Strategic [⚠️ verify SA eligibility]
+- [ ] https://job-boards.greenhouse.io/ozow/jobs/7506375003 | Ozow | Senior Client Success Manager
+- [ ] https://job-boards.greenhouse.io/ozow/jobs/7513038003 | Ozow | Head of Client Success
+- [ ] https://job-boards.greenhouse.io/ozow/jobs/6645749003 | Ozow | Enterprise Manager
+- [ ] https://www.marketaxess.com/careers/current-openings/detail/data-sales-relationship-manager-4510466006?gh_jid=4599036006 | MarketAxess | Data Sales Relationship Manager [⚠️ NYC-based, verify SA eligibility]
