@@ -136,3 +136,16 @@
 - [ ] https://job-boards.greenhouse.io/ozow/jobs/7513038003 | Ozow | Head of Client Success
 - [ ] https://job-boards.greenhouse.io/ozow/jobs/6645749003 | Ozow | Enterprise Manager
 - [ ] https://www.marketaxess.com/careers/current-openings/detail/data-sales-relationship-manager-4510466006?gh_jid=4599036006 | MarketAxess | Data Sales Relationship Manager [⚠️ NYC-based, verify SA eligibility]
+
+## Added 2026-04-28
+
+- [ ] https://boards.greenhouse.io/quiqinc/jobs/4422571005 | Quiq Inc | Strategic Account Director, EMEA (remote) [⚠️ SaaS/AI domain, not fintech — verify fit]
+- [ ] https://job-boards.greenhouse.io/energyexemplarllc/jobs/5165021008 | Energy Exemplar | VP Sales (EMEA) [⚠️ energy markets software, not FX — verify domain fit]
+- [ ] https://cryptojobslist.com/jobs/customer-success-integrations-specialist-thrive-protocol-remote | Thrive Protocol | Customer Success Integrations Specialist (Remote)
+- [ ] https://job-boards.greenhouse.io/emi/jobs/4723667101 | EMI / PayDo | Business Development Manager (Fintech/Payments)
+- [ ] https://job-boards.greenhouse.io/bobtail/jobs/4656288005 | Bobtail | Account Executive – South Africa [SA-specific, fintech payments for trucking]
+- [ ] https://remotive.com/remote/jobs/customer-service/customer-success-manager-4436885 | Jumio | Customer Success Manager (EMEA)
+- [ ] https://weworkremotely.com/remote-jobs/covariant-ai-enterprise-sales-account-director | Covariant AI | Enterprise Sales, Account Director [⚠️ robotics/AI domain, not fintech — verify fit]
+- [ ] https://job-boards.greenhouse.io/remotereferralboardinternaluseonly/jobs/7536424003 | Remote (Remote.com) | Manager, Growth Customer Success – EMEA
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/6443462003 | Remote (Remote.com) | Account Manager – EMEA
+- [ ] https://job-boards.greenhouse.io/bluecubeservices/jobs/6400080 | Blue Cube Services | Customer Success Contractor (Digital Assets)
