@@ -149,3 +149,11 @@
 - [ ] https://job-boards.greenhouse.io/remotereferralboardinternaluseonly/jobs/7536424003 | Remote (Remote.com) | Manager, Growth Customer Success – EMEA
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/6443462003 | Remote (Remote.com) | Account Manager – EMEA
 - [ ] https://job-boards.greenhouse.io/bluecubeservices/jobs/6400080 | Blue Cube Services | Customer Success Contractor (Digital Assets)
+
+## Added 2026-05-01
+
+- [ ] https://bloomberg.avature.net/careers/JobDetail/eFX-Account-Manager-Enterprise-Sales-Bloomberg-Financial-Solutions/17485 | Bloomberg | eFX Account Manager, Enterprise Sales [⚠️ London office — verify SA remote; Bloomberg has Joburg office + she has existing relationships]
+- [ ] https://bloomberg.avature.net/careers/JobDetail/Electronic-Trading-Solutions-ETS-eFX-Sales-Account-Management-Specialist-Financial-Solutions/14974 | Bloomberg | ETS, eFX Sales & Account Management Specialist [⚠️ London-based — same remote caveat as above]
+- [ ] https://job-boards.greenhouse.io/messari/jobs/4653248005 | Messari | Account Executive [⚠️ Greenhouse says Remote-US; verify if SA international candidates accepted — crypto company often global]
+- [ ] https://job-boards.greenhouse.io/ridgeline/jobs/7693851003 | Ridgeline | Strategic Customer Success Manager [⚠️ Remote-USA only; verify work authorisation requirement]
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5111289007 | Temporal Technologies | Account Executive, EMEA [⚠️ London-preferred; developer workflow SaaS — lower domain fit]
