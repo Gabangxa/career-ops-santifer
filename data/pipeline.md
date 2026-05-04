@@ -181,3 +181,17 @@
 - [ ] https://careers.spglobal.com/talent-network/jobs/327778 | S&P Global | Business Development Manager [⚠️ verify SA eligibility — "Multiple Locations"]
 - [ ] https://startup.jobs/staff-customer-success-manager-emea-github-3809158 | GitHub | Staff Customer Success Manager, EMEA [EMEA ✅ — via startup.jobs, verify on github.careers]
 - [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5493828004 | Grafana Labs | Regional Sales Director, South EMEA [EMEA ✅ — observability domain, verify fit]
+
+## Added 2026-05-04 (scan-2)
+
+- [ ] https://cryptojobslist.com/jobs/sales-director-emea-at-utila | Utila | Sales Director, EMEA [crypto digital-asset infra for 200+ institutions — strong domain fit]
+- [ ] https://boards.greenhouse.io/customerio/jobs/5282138 | Customer.io | Director, Sales – EMEA & APAC [remote-first; marketing automation SaaS — lower domain]
+- [ ] https://boards.greenhouse.io/remotecom/jobs/5097714003 | Remote.com | Vice President, Sales – EMEA [remote-first; HR/payroll platform]
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5733416004 | Grafana Labs | Regional Sales Director, Enterprise – Central EMEA [distributed/remote; observability SaaS — note South EMEA already in pipeline]
+- [ ] https://boards.greenhouse.io/btig27/jobs/7101372002 | BTIG | Emerging Market Sales, Director [⚠️ NYC-based institutional brokerage — exceptional domain fit; verify remote/SA eligibility]
+- [ ] https://job-boards.greenhouse.io/synctera/jobs/5737717004 | Synctera | Sales Director [fintech BaaS; ⚠️ verify SA remote eligibility]
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/4888050008 | Cresta | Strategic Sales Director, EMEA [AI sales platform; ⚠️ London-accessible preference]
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5974111004 | Vercel | Director, Enterprise Sales, EMEA [⚠️ developer platform — lower domain fit; verify SA remote]
+- [ ] https://boards.greenhouse.io/techstars57/jobs/6301533002 | Techstars | Director of Sales & Partnerships (EMEA) [⚠️ accelerator domain — lower relevance]
+- [ ] https://web3.career/technical-support-manager-emea-consensys/13704 | Consensys | Technical Support Manager, EMEA [blockchain; ⚠️ technical support role, not sales — lower priority]
+- [ ] https://job-boards.greenhouse.io/huntress/jobs/6749981003 | Huntress | Manager, Mid-Market Sales – EMEA [cybersecurity SaaS; remote EMEA — lower domain fit]
