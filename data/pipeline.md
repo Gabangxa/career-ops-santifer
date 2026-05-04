@@ -157,3 +157,27 @@
 - [ ] https://job-boards.greenhouse.io/messari/jobs/4653248005 | Messari | Account Executive [⚠️ Greenhouse says Remote-US; verify if SA international candidates accepted — crypto company often global]
 - [ ] https://job-boards.greenhouse.io/ridgeline/jobs/7693851003 | Ridgeline | Strategic Customer Success Manager [⚠️ Remote-USA only; verify work authorisation requirement]
 - [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5111289007 | Temporal Technologies | Account Executive, EMEA [⚠️ London-preferred; developer workflow SaaS — lower domain fit]
+
+## Added 2026-05-04
+
+- [ ] https://job-boards.greenhouse.io/fireblocks/jobs/4615403006 | Fireblocks | Account Executive, Northern Europe [⚠️ verify SA eligibility — Northern Europe territory focus]
+- [ ] https://posthog.com/careers/technical-customer-success-manager-emea | PostHog | Technical Customer Success Manager – EMEA
+- [ ] https://remotive.com/remote-jobs/customer-service/customer-success-manager-emea-apac-2088698 | Crisp | Customer Success Manager, EMEA & APAC
+- [ ] https://job-boards.greenhouse.io/elitetechnology/jobs/5062662008 | Elite Technology | Senior Account Executive, EMEA [⚠️ legal tech domain — serves top law firms, not capital markets]
+- [ ] https://remotive.com/remote-jobs/sales-business/account-executive-2071824 | DevFinders | Account Executive (SA-based, R25k/mo — verify seniority/domain fit)
+- [ ] https://remotive.com/remote-jobs/sales-business/account-executive-1998248 | Huzzle | Account Executive (SA-based, creator economy SaaS — verify domain fit)
+- [ ] https://remotive.com/remote/jobs/sales-business/emea-sales-director-services-3628912 | X-Rite | EMEA Sales Director, Services [⚠️ color measurement domain, not fintech — verify fit]
+- [ ] https://weworkremotely.com/remote-jobs/coaching-com-customer-success-manager-worldwide | Coaching.com | Customer Success Manager (Worldwide)
+- [ ] https://www.marketaxess.com/careers/current-openings/detail/jobs/4573056006?gh_jid=4573056006 | MarketAxess | Senior Sales Relationship Manager [⚠️ NYC-based, verify remote/SA eligibility — strong domain fit]
+- [ ] https://ripple.com/careers/all-jobs/job/7244711/?gh_jid=7244711 | Ripple | Senior Business Development Associate [⚠️ verify SA eligibility — fintech/payments/blockchain]
+- [ ] https://www.atlassian.com/company/careers/details/24930 | Atlassian | Customer Success Manager, Mid Market [⚠️ verify SA eligibility — TEAM Anywhere policy but may restrict countries]
+- [ ] https://www.atlassian.com/company/careers/details/24626 | Atlassian | Customer Success Manager, DX [⚠️ verify SA eligibility]
+- [ ] https://www.atlassian.com/company/careers/details/24909 | Atlassian | Principal Customer Success Manager, DX [⚠️ verify SA eligibility]
+- [ ] https://www.atlassian.com/company/careers/details/24658 | Atlassian | Customer Success Manager, Mid-Market – DX [⚠️ verify SA eligibility]
+- [ ] https://www.atlassian.com/company/careers/details/22607 | Atlassian | Principal Customer Success Manager, Enterprise [⚠️ verify SA eligibility]
+- [ ] https://www.atlassian.com/company/careers/details/22005 | Atlassian | Technical Customer Success Manager, AI [⚠️ verify SA eligibility]
+- [ ] https://job-boards.greenhouse.io/accrue/jobs/4423338008 | Accrue | Enterprise Account Executive, Payments [⚠️ verify SA eligibility — payments fintech]
+- [ ] https://remotive.com/remote/jobs/sales-business/senior-enterprise-account-executive-3777054 | Accertify | Senior Enterprise Account Executive [⚠️ verify SA eligibility — payments fraud/identity domain]
+- [ ] https://careers.spglobal.com/talent-network/jobs/327778 | S&P Global | Business Development Manager [⚠️ verify SA eligibility — "Multiple Locations"]
+- [ ] https://startup.jobs/staff-customer-success-manager-emea-github-3809158 | GitHub | Staff Customer Success Manager, EMEA [EMEA ✅ — via startup.jobs, verify on github.careers]
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5493828004 | Grafana Labs | Regional Sales Director, South EMEA [EMEA ✅ — observability domain, verify fit]
