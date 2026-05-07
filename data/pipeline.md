@@ -195,3 +195,15 @@
 - [ ] https://boards.greenhouse.io/techstars57/jobs/6301533002 | Techstars | Director of Sales & Partnerships (EMEA) [⚠️ accelerator domain — lower relevance]
 - [ ] https://web3.career/technical-support-manager-emea-consensys/13704 | Consensys | Technical Support Manager, EMEA [blockchain; ⚠️ technical support role, not sales — lower priority]
 - [ ] https://job-boards.greenhouse.io/huntress/jobs/6749981003 | Huntress | Manager, Mid-Market Sales – EMEA [cybersecurity SaaS; remote EMEA — lower domain fit]
+
+## Added 2026-05-07
+
+- [ ] https://job-boards.greenhouse.io/mesh/jobs/5032615008 | Mesh | Head of Sales – Enterprise [crypto/fintech connectivity for exchanges, wallets, fintechs, banks; 10+ yrs enterprise sales required — strong archetype #2 fit]
+- [ ] https://www.adzuna.co.za/details/5630762088 | Undisclosed IT Co. (Adzuna SA) | Africa Regional Sales Director – Fintech & Digital Banking [SA-based; C-level engagement, BizDev + KAM — exceptional domain + geography fit; ⚠️ verify company name and remote/hybrid policy]
+- [ ] https://web3.career/vp-sales-gk8bygalaxy/100289 | GK8/Galaxy | VP Sales [$72k–$110k USD remote; digital asset custody — verify total comp incl. equity vs. ZAR 1.8M walk-away]
+- [ ] https://remotive.com/remote/jobs/sales-business/director-of-sales-relationship-management-3909254 | oneZero Financial Systems | Director of Sales & Relationship Management [FX/electronic trading infrastructure; ⚠️ EMEA director role recently filled by Lochlan White — verify if listing is for different territory (Retail/Wholesale) or still open]
+- [ ] https://careers.airwallex.com/job/00b73f37-17a2-440f-b875-4a4376c9f852/enterprise-account-executive-emea/ | Airwallex | Enterprise Account Executive, EMEA [cross-border FX/payments fintech; EMEA remote — strong domain fit, verify SA eligibility]
+- [ ] https://remotive.com/remote-jobs/sales-business/head-of-sales-2067745 | PayDo | Head of Sales [payments/IBAN/SWIFT fintech; ⚠️ low Remotive ID — verify listing is still active]
+- [ ] https://remotive.com/remote/jobs/sales-business/vp-of-sales-1607703 | Runa | VP of Sales [B2B digital payments/rewards fintech; ⚠️ low Remotive ID — verify listing is still active]
+- [ ] https://remotive.com/remote/jobs/sales-business/director-of-sales-1859694 | TIFIN | Director of Sales [AI wealth management fintech; $100k–$150k USD base; ⚠️ posted ~July 2025 — verify still open]
+- [ ] https://remotive.com/remote-jobs/sales-business/director-of-sales-2041980 | Greenbox Capital | Director of Sales [SMB fintech lending — lower domain fit; ⚠️ verify still active]
