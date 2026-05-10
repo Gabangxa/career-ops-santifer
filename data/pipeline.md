@@ -207,3 +207,15 @@
 - [ ] https://remotive.com/remote/jobs/sales-business/vp-of-sales-1607703 | Runa | VP of Sales [B2B digital payments/rewards fintech; ⚠️ low Remotive ID — verify listing is still active]
 - [ ] https://remotive.com/remote/jobs/sales-business/director-of-sales-1859694 | TIFIN | Director of Sales [AI wealth management fintech; $100k–$150k USD base; ⚠️ posted ~July 2025 — verify still open]
 - [ ] https://remotive.com/remote-jobs/sales-business/director-of-sales-2041980 | Greenbox Capital | Director of Sales [SMB fintech lending — lower domain fit; ⚠️ verify still active]
+
+## Added 2026-05-10
+
+- [ ] https://boards.greenhouse.io/layerzerolabs/jobs/4908141004 | LayerZero Labs | Strategic Account Executive - Capital Markets [blockchain/DLT for capital markets; Zero chain backed by DTCC, ICE, Citadel Securities — exceptional domain fit; 3+ yrs DLT sales required — verify global remote eligibility]
+- [ ] https://job-boards.greenhouse.io/entersekt/jobs/5821775004 | Entersekt | Partnerships Sales Director [SA-origin digital banking security co., Fully Remote or Atlanta; serves banks, fintechs, credit unions — strong seniority + remote fit]
+- [ ] https://remotive.com/remote/jobs/sales-business/vp-enterprise-sales-4050359 | IXOPAY | VP, Enterprise Sales (EMEA) [payment orchestration fintech; remote-first, Europe off-sites; targets €750M+ enterprise accounts — verify SA remote eligibility]
+- [ ] https://remotive.com/remote/jobs/sales-business/vp-of-sales-3841596 | Pearl | VP of Sales (LATAM & South Africa) [remote from SA; Pearl is a talent/staffing platform — low fintech domain fit but VP level and SA-eligible remote]
+- [ ] https://job-boards.greenhouse.io/shift4/jobs/5088006007 | Shift4 | Business Development Director - Crypto/FX [NYSE: FOUR; London or Remote-Europe; Crypto & FX vertical BD director — strong domain/seniority, verify SA remote]
+- [ ] https://job-boards.greenhouse.io/momentmarkets/jobs/4782719007 | Moment Markets | Enterprise Account Executive [fixed income electronic trading SaaS; ex-Citadel/Jane Street founders; ⚠️ verify remote/SA eligibility — possibly US-based]
+- [ ] https://remotive.com/remote/jobs/sales-business/vp-sales-emea-4201762 | Jitterbit | VP Sales - EMEA [⚠️ UK-based per SmartRecruiters; data integration SaaS — lower domain fit; verify if truly remote and SA-eligible]
+- [ ] https://boards.greenhouse.io/bitgo/jobs/5971108002 | BitGo | Customer Success Manager (EMEA) [institutional digital assets; ⚠️ London-based — no remote; note only if London becomes option]
+- [ ] https://job-boards.greenhouse.io/fireblocks/jobs/4593906006 | Fireblocks | Sales Director [⚠️ territory unknown — verify region; possibly duplicate of existing Fireblocks SD listings]
