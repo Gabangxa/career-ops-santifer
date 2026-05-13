@@ -219,3 +219,15 @@
 - [ ] https://remotive.com/remote/jobs/sales-business/vp-sales-emea-4201762 | Jitterbit | VP Sales - EMEA [⚠️ UK-based per SmartRecruiters; data integration SaaS — lower domain fit; verify if truly remote and SA-eligible]
 - [ ] https://boards.greenhouse.io/bitgo/jobs/5971108002 | BitGo | Customer Success Manager (EMEA) [institutional digital assets; ⚠️ London-based — no remote; note only if London becomes option]
 - [ ] https://job-boards.greenhouse.io/fireblocks/jobs/4593906006 | Fireblocks | Sales Director [⚠️ territory unknown — verify region; possibly duplicate of existing Fireblocks SD listings]
+
+## Added 2026-05-13
+
+- [ ] https://job-boards.greenhouse.io/xapo61/jobs/7579748003 | Xapo Bank | Regional Head - Client Coverage Group, EMEA [★★ 5.0/5 — 100% remote anywhere; owns Sales+AM+CS for EMEA; crypto banking; institutional KYC/AML; 7+ yrs financial services required]
+- [ ] https://job-boards.greenhouse.io/xapo61/jobs/7670617003 | Xapo Bank | Head of Customer Success [★★ 5.0/5 — 100% remote anywhere; leads entire CS dept; crypto banking; 7+ yrs financial services; strong archetype #2/#3 fit]
+- [ ] https://job-boards.greenhouse.io/alphasense/jobs/7734391002 | AlphaSense | Strategic Account Executive, Financial Services [4.55/5 — EMEA remote; targets investment banks/hedge funds/asset managers; market intelligence SaaS; strong archetype #1/#2 fit]
+- [ ] https://job-boards.greenhouse.io/customerio/jobs/7904660 | Customer.io | Director of Sales [4.50/5 — fully remote; Director-level; ⚠️ marketing automation SaaS, not fintech — verify territory, comp, and domain transferability before prioritising]
+- [ ] https://job-boards.greenhouse.io/xapo61/jobs/6238531003 | Xapo Bank | Account Manager [4.45/5 — 100% remote anywhere; HNW client portfolio; crypto banking; ⚠️ Manager seniority may be a step down from current Sales Director role]
+- [ ] https://careers.airwallex.com/job/a48d2882-d910-4f2a-b463-e62d594db0eb/strategic-enterprise-account-executive-emea/ | Airwallex | Strategic Enterprise Account Executive, EMEA [4.40/5 — FX & Payments API; ⚠️ London hybrid ~3 days/wk — verify if SA-remote negotiable]
+- [ ] https://jobs.citi.com/job/london/director-head-of-fintech-sales-uk-europe-middle-east-and-africa/287/93946074208 | Citi | Director, Head of Fintech Sales – UK, Europe, MEA [4.20/5 — exceptional domain: TTS/VASPs/Crypto/FX; MEA territory includes SA client base; ⚠️ London-based — verify remote eligibility]
+- [ ] https://job-boards.greenhouse.io/alphasense/jobs/8113871002 | AlphaSense | Customer Success Manager, Financial Services [4.00/5 — EMEA remote; financial services CSM; ⚠️ verify seniority level and whether this overlaps with Strategic AE FS listing above]
+- [ ] https://weworkremotely.com/remote-jobs/wevo-enterprise-customer-success-manager | WEVO | Enterprise Customer Success Manager [3.95/5 — fully remote; enterprise CSM; ⚠️ CRO/UX research SaaS — not fintech; weakest domain fit in batch]
