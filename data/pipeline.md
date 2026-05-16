@@ -231,3 +231,15 @@
 - [ ] https://jobs.citi.com/job/london/director-head-of-fintech-sales-uk-europe-middle-east-and-africa/287/93946074208 | Citi | Director, Head of Fintech Sales – UK, Europe, MEA [4.20/5 — exceptional domain: TTS/VASPs/Crypto/FX; MEA territory includes SA client base; ⚠️ London-based — verify remote eligibility]
 - [ ] https://job-boards.greenhouse.io/alphasense/jobs/8113871002 | AlphaSense | Customer Success Manager, Financial Services [4.00/5 — EMEA remote; financial services CSM; ⚠️ verify seniority level and whether this overlaps with Strategic AE FS listing above]
 - [ ] https://weworkremotely.com/remote-jobs/wevo-enterprise-customer-success-manager | WEVO | Enterprise Customer Success Manager [3.95/5 — fully remote; enterprise CSM; ⚠️ CRO/UX research SaaS — not fintech; weakest domain fit in batch]
+
+## Added 2026-05-16
+
+- [ ] https://job-boards.greenhouse.io/mesh/jobs/5032632008 | Mesh | Head of Business Development [4.55/5 — crypto/fintech payment connectivity platform; archetype #2/#4 fit; global remote ✓]
+- [ ] https://remotive.com/remote/jobs/sales-business/vp-of-sales-emea-4163148 | Pixalate | VP of Sales, EMEA [4.05/5 — VP seniority ✓, EMEA remote ✓; ⚠️ AdTech/fraud domain, not fintech]
+- [ ] https://remotive.com/remote/jobs/sales-business/director-sales-emea-1733071 | Fabric | Director, Sales EMEA [4.05/5 — Director seniority ✓, EMEA remote ✓; ⚠️ headless commerce SaaS, not fintech]
+- [ ] https://boards.greenhouse.io/alpaca/jobs/5334070004 | Alpaca | Customer Success Manager [4.00/5 — trading API fintech, globally remote; ⚠️ verify not duplicate of 5333962004 already in pipeline]
+- [ ] https://job-boards.greenhouse.io/remotereferralboardinternaluseonly/jobs/7723151003 | Remote.com | Senior Customer Success Manager, MM/Ent – EMEA [3.95/5 — senior CSM, EMEA fully remote; ⚠️ HR/EOR platform, not fintech]
+- [ ] https://remotive.com/remote/jobs/sales-business/senior-account-executive-1223385 | RemotePass | Senior Account Executive [3.95/5 — senior AE, globally remote; ⚠️ contractor payments/payroll platform, moderate fintech fit]
+- [ ] https://job-boards.greenhouse.io/episodesix/jobs/5799337004 | Episode Six | Senior Business Analyst [3.90/5 — payments infrastructure for banks, strong fintech domain; ⚠️ BA role, not pure sales]
+- [ ] https://job-boards.greenhouse.io/branch/jobs/7689620003 | Branch | Customer Success Operations Manager [3.83/5 — earned wage access fintech; ⚠️ internal CS ops role, not client-facing AE/CSM]
+- [ ] https://remotive.com/remote/jobs/sales-business/growth-account-executive-2073904 | eCapital | Growth Account Executive [3.60/5 — alternative lending fintech; ⚠️ verify seniority level and SA remote eligibility]
