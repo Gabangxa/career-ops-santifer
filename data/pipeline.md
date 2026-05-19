@@ -243,3 +243,9 @@
 - [ ] https://job-boards.greenhouse.io/episodesix/jobs/5799337004 | Episode Six | Senior Business Analyst [3.90/5 — payments infrastructure for banks, strong fintech domain; ⚠️ BA role, not pure sales]
 - [ ] https://job-boards.greenhouse.io/branch/jobs/7689620003 | Branch | Customer Success Operations Manager [3.83/5 — earned wage access fintech; ⚠️ internal CS ops role, not client-facing AE/CSM]
 - [ ] https://remotive.com/remote/jobs/sales-business/growth-account-executive-2073904 | eCapital | Growth Account Executive [3.60/5 — alternative lending fintech; ⚠️ verify seniority level and SA remote eligibility]
+
+## Added 2026-05-19
+
+- [ ] https://remotive.com/remote/jobs/sales-business/director-acceptance-solutions-sales-executive-3663721 | Visa | Director, Acceptance Solutions Sales Executive [4.60/5 — global payments leader, Director seniority, remote on Remotive; ⚠️ older Remotive ID (~Sep 2025) — verify still active before applying]
+- [ ] https://remotive.com/remote/jobs/sales/account-executive-4139073 | Global Payments Inc. | Account Executive [3.95/5 — major payment processor, AE archetype match; ⚠️ verify SA remote eligibility and seniority level]
+- [ ] https://boards.greenhouse.io/chainalysis/jobs/5732710002 | Chainalysis | Account Executive, Government and Commercial, Sub-Saharan Africa [3.80/5 — blockchain compliance/crypto, Africa territory match; ⚠️ Dubai Based required — not remote from SA unless open to relocation]
