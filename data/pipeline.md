@@ -306,3 +306,10 @@
 - [ ] https://boards.greenhouse.io/appdirect/jobs/6146284002 | AppDirect | Senior Account Executive, EMEA [4.00/5 — marketplace platform serving FS clients across EMEA; ⚠️ verify if distinct from pipeline entry 5747973002 or repost; UK/Europe-preferred territory; non-core fintech domain]
 - [ ] https://remotive.com/remote/jobs/customer-service/director-customer-success-4286423 | Pindrop | Director, Customer Success [3.70/5 — voice security/fraud detection for major banks; Director-level; remote per Remotive; ⚠️ contact center security domain, not fintech/trading — deprioritise vs higher-scoring entries]
 - [ ] https://remotive.com/remote/jobs/sales-business/director-of-account-management-customer-success-4128289 | Motive | Director of Account Management & Customer Success [3.63/5 — fleet management SaaS (trucking/logistics); Director seniority ✓, global remote ✓; ⚠️ weakest domain fit this scan — consider only if pipeline becomes thin]
+
+## Added 2026-06-01
+
+- [ ] https://web3.career/customer-success-manager-emea-kiln/89570 | Kiln | Customer Success Manager (EMEA) [enterprise blockchain staking platform; serves Binance, BitGo, Fireblocks, VanEck; $73k–$120k; fully remote from EMEA ✓; strong crypto fintech domain]
+- [ ] https://startup.jobs/enterprise-account-executive-github-4701887 | GitHub | Enterprise Account Executive (EMEA) [North EMEA territory; upsell and expand enterprise clients; Microsoft subsidiary; ⚠️ verify SA remote eligibility — EMEA territory but not all EMEA countries included]
+- [ ] https://www.marketaxess.com/careers/current-openings/detail/jobs/4397203006?gh_jid=4397203006 | MarketAxess | Senior Associate Sales Relationship Manager [electronic bond & FX trading platform; strong domain fit; ⚠️ NYC-based — verify SA remote eligibility]
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7502876003 | Remote.com | Senior Account Executive, Global Payroll – EMEA [EMEA remote ✓; HR/payroll SaaS; ⚠️ non-fintech domain; multiple Remote.com listings already in pipeline — deprioritise unless pipeline thins]
