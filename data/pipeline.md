@@ -348,3 +348,13 @@
 - [ ] https://job-boards.greenhouse.io/chainguard/jobs/4682909006 | Chainguard | Staff Customer Success Manager, Majors (Financial Services) [cybersecurity with FS client focus; ⚠️ 4th Chainguard listing in pipeline — deprioritise unless top entries cleared]
 - [ ] https://job-boards.greenhouse.io/elitetechnology/jobs/5045908008 | Elite Technology | Customer Success Manager [⚠️ legal tech domain, UK remote preferred — lower domain fit vs fintech; Elite Technology Senior AE EMEA already in pipeline]
 - [ ] https://remotive.com/remote/jobs/sales-business/sales-business-development-manager-4482906 | Cisco | Sales Business Development Manager [⚠️ tech networking domain, not fintech; verify SA remote eligibility and seniority level]
+
+## Added 2026-06-08 (greenhouse-api scan)
+
+- [ ] https://job-boards.greenhouse.io/fireblocks/jobs/4657522006 | Fireblocks | Business Development Manager, Blockchain and DeFi Ecosystem [⚠️ London-based — verify SA remote; institutional digital-assets/DeFi BD — strong domain fit]
+- [ ] https://jobs.elastic.co/jobs?gh_jid=7766695 | Elastic | Enterprise Account Executive [★ SA ✓ — explicitly South Africa; distributed-first remote company; ⚠️ off-domain (search/observability SaaS, not fintech)]
+- [ ] https://jobs.elastic.co/jobs?gh_jid=7505982 | Elastic | Account Executive [⚠️ UK-based — verify SA remote eligibility; off-domain search/observability SaaS]
+- [ ] https://jobs.elastic.co/jobs?gh_jid=7764820 | Elastic | Enterprise Account Executive [⚠️ Belgium-based — verify SA remote eligibility; off-domain]
+- [ ] https://jobs.elastic.co/jobs?gh_jid=7764822 | Elastic | Commercial / Mid Market Account Executive [⚠️ UK-based — verify SA remote eligibility; off-domain]
+- [ ] https://jobs.elastic.co/jobs?gh_jid=7764834 | Elastic | Mid Market Account Executive (Expansion) [⚠️ UK-based — verify SA remote; off-domain; near-dup territory of 7764822]
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/6000972004 | Mercury | Customer Support Specialist - EMEA [⚠️ Dublin-based — verify SA remote; support IC role — likely step down from current Director seniority]
