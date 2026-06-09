@@ -189,10 +189,9 @@ tracked_companies:
     enabled: true
 
   - name: FactSet
-    careers_url: https://job-boards.greenhouse.io/factset
-    api: https://boards-api.greenhouse.io/v1/boards/factset/jobs
-    notes: "Financial data. Greenhouse. Global."
-    enabled: true
+    careers_url: https://www.factset.com/careers
+    notes: "Financial data. Left Greenhouse; no public JSON job API found (enterprise ATS). Disabled until endpoint identified — use websearch if needed."
+    enabled: false
 
   - name: S&P Global (IHS Markit)
     careers_url: https://careers.spglobal.com
@@ -281,9 +280,10 @@ tracked_companies:
   # -- Fintech Payments & FX --
 
   - name: Wise (formerly TransferWise)
-    careers_url: https://job-boards.greenhouse.io/wise
-    api: https://boards-api.greenhouse.io/v1/boards/wise/jobs
-    notes: "London. International payments. Remote-friendly."
+    careers_url: https://www.wise.jobs
+    api: https://api.smartrecruiters.com/v1/companies/wise/postings
+    ats: smartrecruiters
+    notes: "London. International payments. Remote-friendly. Moved to SmartRecruiters (~350 roles, paginated 100/page)."
     enabled: true
 
   - name: Currencycloud (Visa)
@@ -362,15 +362,17 @@ tracked_companies:
     enabled: true
 
   - name: Airwallex
-    careers_url: https://job-boards.greenhouse.io/airwallex
-    api: https://boards-api.greenhouse.io/v1/boards/airwallex/jobs
-    notes: "Global payments & FX. Remote-friendly. EMEA presence."
+    careers_url: https://jobs.ashbyhq.com/airwallex
+    api: https://api.ashbyhq.com/posting-api/job-board/airwallex
+    ats: ashby
+    notes: "Global payments & FX. Remote-friendly. EMEA presence. Moved to Ashby."
     enabled: true
 
   - name: Nium
-    careers_url: https://job-boards.greenhouse.io/nium
-    api: https://boards-api.greenhouse.io/v1/boards/nium/jobs
-    notes: "Singapore. Global payments infrastructure. Remote."
+    careers_url: https://jobs.lever.co/nium
+    api: https://api.lever.co/v0/postings/nium?mode=json
+    ats: lever
+    notes: "Singapore. Global payments infrastructure. Remote. Moved to Lever."
     enabled: true
 
   - name: Ripple
@@ -381,29 +383,29 @@ tracked_companies:
     enabled: true
 
   - name: Tipalti
-    careers_url: https://job-boards.greenhouse.io/tipalti
-    api: https://boards-api.greenhouse.io/v1/boards/tipalti/jobs
-    notes: "Remote. AP automation fintech. Strong CSM/AE hiring."
-    enabled: true
+    careers_url: https://tipalti.com/careers
+    notes: "Remote. AP automation fintech. Left Greenhouse; no public JSON job API found (enterprise ATS). Disabled until endpoint identified — use websearch if needed."
+    enabled: false
 
   - name: Paddle
-    careers_url: https://job-boards.greenhouse.io/paddle
-    api: https://boards-api.greenhouse.io/v1/boards/paddle/jobs
-    notes: "London + remote. Payments for SaaS. EMEA-friendly."
+    careers_url: https://jobs.ashbyhq.com/paddle
+    api: https://api.ashbyhq.com/posting-api/job-board/paddle
+    ats: ashby
+    notes: "London + remote. Payments for SaaS. EMEA-friendly. Moved to Ashby."
     enabled: true
 
   # -- Crypto & Blockchain --
 
 
   - name: Chainalysis
-    careers_url: https://job-boards.greenhouse.io/chainalysis
-    api: https://boards-api.greenhouse.io/v1/boards/chainalysis/jobs
-    notes: "Remote. Blockchain analytics. Large CSM and AE hiring."
-    enabled: true
+    careers_url: https://www.chainalysis.com/careers
+    notes: "Remote. Blockchain analytics. Left Greenhouse; no public JSON job API found (enterprise ATS). Disabled until endpoint identified — use websearch if needed."
+    enabled: false
 
   - name: Fireblocks
     careers_url: https://job-boards.greenhouse.io/fireblocks
     api: https://boards-api.greenhouse.io/v1/boards/fireblocks/jobs
+    ats: greenhouse
     notes: "Remote. Digital asset custody infrastructure. Strong EMEA team."
     enabled: true
 
@@ -416,14 +418,16 @@ tracked_companies:
     enabled: true
 
   - name: Paxos
-    careers_url: https://job-boards.greenhouse.io/paxos
-    api: https://boards-api.greenhouse.io/v1/boards/paxos/jobs
-    notes: "Remote. Regulated blockchain infrastructure."
+    careers_url: https://jobs.ashbyhq.com/paxos
+    api: https://api.ashbyhq.com/posting-api/job-board/paxos
+    ats: ashby
+    notes: "Remote. Regulated blockchain infrastructure. Moved to Ashby."
     enabled: true
 
   - name: Luno
     careers_url: https://job-boards.greenhouse.io/luno
     api: https://boards-api.greenhouse.io/v1/boards/luno/jobs
+    ats: greenhouse
     notes: "SA origin (DCG-owned). Africa + EMEA. Strong local relevance."
     enabled: true
 
@@ -460,6 +464,7 @@ tracked_companies:
   - name: Mercury
     careers_url: https://job-boards.greenhouse.io/mercury
     api: https://boards-api.greenhouse.io/v1/boards/mercury/jobs
+    ats: greenhouse
     notes: "Remote. Banking for startups. CSM and sales roles."
     enabled: true
 
@@ -508,18 +513,21 @@ tracked_companies:
   - name: Elastic
     careers_url: https://job-boards.greenhouse.io/elastic
     api: https://boards-api.greenhouse.io/v1/boards/elastic/jobs
+    ats: greenhouse
     notes: "Distributed-first. Elasticsearch/Kibana. Strong EMEA and global remote hiring."
     enabled: true
 
   - name: Oyster HR
-    careers_url: https://job-boards.greenhouse.io/oyster
-    api: https://boards-api.greenhouse.io/v1/boards/oyster/jobs
-    notes: "Remote-first by design. Global employment platform. Strong CSM and CS hiring."
+    careers_url: https://jobs.ashbyhq.com/oyster
+    api: https://api.ashbyhq.com/posting-api/job-board/oyster
+    ats: ashby
+    notes: "Remote-first by design. Global employment platform. Strong CSM and CS hiring. Moved to Ashby."
     enabled: true
 
   - name: Deel
-    careers_url: https://job-boards.greenhouse.io/deel
-    api: https://boards-api.greenhouse.io/v1/boards/deel/jobs
-    notes: "Remote-first. Global HR and payroll platform. Large CSM and sales org. Hires globally."
+    careers_url: https://jobs.ashbyhq.com/deel
+    api: https://api.ashbyhq.com/posting-api/job-board/deel
+    ats: ashby
+    notes: "Remote-first. Global HR and payroll platform. Large CSM and sales org. Hires globally. Moved to Ashby."
     enabled: true
 
