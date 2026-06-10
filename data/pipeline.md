@@ -348,3 +348,13 @@
 - [ ] https://job-boards.greenhouse.io/chainguard/jobs/4682909006 | Chainguard | Staff Customer Success Manager, Majors (Financial Services) [cybersecurity with FS client focus; ⚠️ 4th Chainguard listing in pipeline — deprioritise unless top entries cleared]
 - [ ] https://job-boards.greenhouse.io/elitetechnology/jobs/5045908008 | Elite Technology | Customer Success Manager [⚠️ legal tech domain, UK remote preferred — lower domain fit vs fintech; Elite Technology Senior AE EMEA already in pipeline]
 - [ ] https://remotive.com/remote/jobs/sales-business/sales-business-development-manager-4482906 | Cisco | Sales Business Development Manager [⚠️ tech networking domain, not fintech; verify SA remote eligibility and seniority level]
+
+## Added 2026-06-10
+
+- [ ] https://boards.greenhouse.io/embed/job_app?for=setpoint&token=4194419007 | Setpoint | Enterprise Sales Executive, Growth [4.60/5 — capital markets infrastructure serving banks, credit funds, capital markets counterparties; Enterprise Sales archetype #1; ⚠️ verify SA remote eligibility]
+- [ ] https://job-boards.greenhouse.io/bitmex/jobs/8069971002 | BitMEX | Institutional Sales Manager – Funds & Asset Managers [4.40/5 — crypto derivatives exchange; targets hedge funds and asset managers; direct analogue to Bloomberg/SGX FX experience; ⚠️ verify SA remote eligibility]
+- [ ] https://job-boards.greenhouse.io/bitgo/jobs/7860656002 | BitGo | Senior Customer Success Manager – Institutional [$140k–$170k USD; serves institutional clients; active EMEA CSM hiring; ⚠️ verify SA remote eligibility]
+- [ ] https://remotive.com/remote/jobs/sales-business/enterprise-account-executive-3841562 | Elastic | Enterprise Account Executive [4.25/5 — search result explicitly mentions South Africa ✓; ⚠️ cloud/IT domain, not fintech — verify still active and SA eligibility confirmed]
+- [ ] https://web3.career/business-development-manager-finchtrade/98516 | FinchTrade | Business Development Manager [4.20/5 — crypto liquidity/payments fintech; globally remote ✓; ⚠️ salary $30k–$90k USD listed — verify total OTE vs ZAR 1.8M walk-away]
+- [ ] https://job-boards.greenhouse.io/coinme/jobs/5171571008 | Coinme | Head of Institutional Sales [4.15/5 — regulated Bitcoin exchange; Head seniority; ⚠️ US-headquartered (Seattle) — verify SA remote eligibility before applying]
+- [ ] https://job-boards.greenhouse.io/bitgo/jobs/7964156002 | BitGo | Senior Customer Success Manager – Ecosystem [4.00/5 — serves platform and fintech clients; $140k–$170k USD; ⚠️ verify SA remote eligibility]
