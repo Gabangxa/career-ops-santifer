@@ -385,3 +385,18 @@
 - [ ] https://job-boards.greenhouse.io/fireblocks/jobs/4612642006 | Fireblocks | Sales Director, Crypto Native [4.70/5 — new listing; institutional digital asset sales to crypto-native firms; ⚠️ verify territory (possibly Americas/global) and SA remote eligibility]
 - [ ] https://job-boards.greenhouse.io/fireblocks/jobs/4601130006 | Fireblocks | Sales Director, Payments (variant) [4.60/5 — additional Payments SD listing; territory unclear — ⚠️ may be Americas or different payment segment; verify before applying]
 - [ ] https://boards.greenhouse.io/taxbit/jobs/5411050004 | TaxBit | Director, Customer Success & Solution Specialists [4.20/5 — Director-level CS leadership role; crypto tax compliance fintech; ⚠️ verify SA remote eligibility and whether this is active/distinct from existing TaxBit roles in pipeline]
+
+## Added 2026-06-22
+
+- [ ] https://ripple.com/careers/all-jobs/job/6664003/ | Ripple | Business Development Manager – RLUSD & RWA Tokenization [stablecoin/RWA BD targeting banks, fintechs, enterprises on XRP Ledger; ⚠️ verify SA remote eligibility — Ripple in-office 10+ days/month policy noted]
+- [ ] https://ripple.com/careers/all-jobs/job/6553480/ | Ripple | Business Development Manager [⚠️ verify if distinct from 6664003 above or different territory; same caution on remote policy]
+- [ ] https://ripple.com/careers/all-jobs/job/6375931/ | Ripple | Sales Director [⚠️ new listing — verify territory and SA remote eligibility; existing Director Sales (7783928) already in pipeline]
+- [ ] https://ripple.com/careers/all-jobs/job/7837997/ | Ripple | Client Support Analyst [⚠️ likely junior/analyst-level support role — verify seniority before prioritising; SA eligibility unconfirmed]
+- [ ] https://job-boards.greenhouse.io/blockchain/jobs/7980197 | Blockchain.com | Institutional Sales Associate [crypto institutional sales; manages high-value accounts & drives revenue; ⚠️ verify SA remote eligibility and seniority level]
+- [ ] https://posthog.com/careers/technical-support-engineer | PostHog | Technical Support Engineer [globally distributed, fully remote ✓; ⚠️ technical support requiring engineering background — lower fit vs sales/BD career path; deprioritise unless pipeline thins]
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/5989774004 | Alpaca | Customer Success Manager [globally remote trading API fintech; ⚠️ verify not effective dup of existing Alpaca CSM listings in pipeline (5333962004, 5334070004, 5361597004)]
+- [ ] https://www.atlassian.com/company/careers/details/14952 | Atlassian | Head of Customer Success Management, Strategic [TEAM Anywhere policy; Head-level CS leadership for Strategic segment; ⚠️ verify SA eligibility and whether US-timezone coverage required]
+- [ ] https://weworkremotely.com/remote-jobs/velera-solutions-client-delivery-project-manager | Velera Solutions | Client Delivery Project Manager [payments fintech (formerly PSCU, credit union payment network); ⚠️ verify SA remote eligibility]
+- [ ] https://remotive.com/remote/jobs/sales/account-executive-saas-lending-compliance-4336686 | Continuous | Account Executive – SaaS (Lending & Compliance) [worldwide remote ✓; fintech/compliance SaaS targeting FIs; ⚠️ verify comp vs ZAR 1.8M walk-away and domain depth]
+- [ ] https://cryptojobslist.com/jobs/business-development-director-rwa-at-polygon-labs | Polygon Labs | Business Development Director, RWA [EMEA remote ✓; blockchain RWA champion for EMEA region; targets Europe and UAE institutions; strong BD seniority match]
+- [ ] https://weworkremotely.com/remote-jobs/chainalysis-commercial-account-executive | Chainalysis | Commercial Account Executive [blockchain analytics; ⚠️ verify SA eligibility — Chainalysis commercial roles on WWR have historically been US-focused]
