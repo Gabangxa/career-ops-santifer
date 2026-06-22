@@ -400,3 +400,16 @@
 - [ ] https://remotive.com/remote/jobs/sales/account-executive-saas-lending-compliance-4336686 | Continuous | Account Executive – SaaS (Lending & Compliance) [worldwide remote ✓; fintech/compliance SaaS targeting FIs; ⚠️ verify comp vs ZAR 1.8M walk-away and domain depth]
 - [ ] https://cryptojobslist.com/jobs/business-development-director-rwa-at-polygon-labs | Polygon Labs | Business Development Director, RWA [EMEA remote ✓; blockchain RWA champion for EMEA region; targets Europe and UAE institutions; strong BD seniority match]
 - [ ] https://weworkremotely.com/remote-jobs/chainalysis-commercial-account-executive | Chainalysis | Commercial Account Executive [blockchain analytics; ⚠️ verify SA eligibility — Chainalysis commercial roles on WWR have historically been US-focused]
+
+## Added 2026-06-22 (scan 2)
+
+- [ ] https://job-boards.greenhouse.io/emi/jobs/4723638101 | EMI/PayDo | Head of Sales [4.55/5 — payments fintech (EMI/e-money), Head of Sales archetype ✓; ⚠️ verify SA remote eligibility]
+- [ ] https://boards.greenhouse.io/galaxydigitalservices/jobs/5044869004 | Galaxy Digital | VP, Institutional Sales (Trading, EMEA) [4.40/5 — institutional crypto trading, VP seniority, EMEA; ⚠️ likely NYC/London-based — verify SA remote]
+- [ ] https://job-boards.greenhouse.io/OKX/jobs/7520118003 | OKX | Head of Sales - Europe (EEA) [4.40/5 — top-3 crypto exchange, Head of Sales; ⚠️ EEA restriction may exclude SA — verify]
+- [ ] https://boards.greenhouse.io/bitgo/jobs/5732192002 | BitGo | Director, Institutional Sales (EMEA) [4.20/5 — institutional digital assets, Director seniority; ⚠️ London hybrid — note only if London becomes an option]
+- [ ] https://boards.greenhouse.io/paradigm62/jobs/4125845004 | Paradigm | Liquidity Management Associate Europe (Remote) [4.05/5 — crypto derivatives platform; 3+ yrs institutional FX/FI/equity derivatives desk experience — direct skills match; ⚠️ Associate title may be step down]
+- [ ] https://job-boards.greenhouse.io/array/jobs/4805410004 | Array | Account Executive [3.70/5 — embedded finance/credit API, sells to banks and fintechs; ⚠️ verify SA remote eligibility]
+- [ ] https://job-boards.greenhouse.io/pacvue/jobs/5691852004 | Pacvue | Senior Sales Director, EMEA [3.65/5 — SD seniority ✓; ⚠️ retail media SaaS not fintech; London-preferred]
+- [ ] https://startup.jobs/account-executive-semea-remote-5772846 | Remote.com | Account Executive - SEMEA [3.65/5 — SEMEA remote (may include SA) ✓; ⚠️ HR/EOR platform not fintech; note existing Remote.com listings in pipeline]
+- [ ] https://remotive.com/remote/jobs/sales/strategic-account-executive-4500525 | Twilio | Strategic Account Executive (EMEA) [3.65/5 — strategic AE seniority ✓, EMEA remote; ⚠️ communications SaaS not fintech; DACH/Southern Europe territory]
+- [ ] https://startup.jobs/business-development-manager-fintech-payments-nmi-4547099 | NMI | Business Development Manager - Fintech/Payments [3.60/5 — payments gateway fintech ✓; ⚠️ verify SA remote eligibility and comp vs ZAR 1.8M walk-away]
