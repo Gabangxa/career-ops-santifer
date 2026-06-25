@@ -413,3 +413,9 @@
 - [ ] https://startup.jobs/account-executive-semea-remote-5772846 | Remote.com | Account Executive - SEMEA [3.65/5 — SEMEA remote (may include SA) ✓; ⚠️ HR/EOR platform not fintech; note existing Remote.com listings in pipeline]
 - [ ] https://remotive.com/remote/jobs/sales/strategic-account-executive-4500525 | Twilio | Strategic Account Executive (EMEA) [3.65/5 — strategic AE seniority ✓, EMEA remote; ⚠️ communications SaaS not fintech; DACH/Southern Europe territory]
 - [ ] https://startup.jobs/business-development-manager-fintech-payments-nmi-4547099 | NMI | Business Development Manager - Fintech/Payments [3.60/5 — payments gateway fintech ✓; ⚠️ verify SA remote eligibility and comp vs ZAR 1.8M walk-away]
+
+## Added 2026-06-25
+
+- [ ] https://web3.career/sr-sales-manager-emea-kraken-institutional-kraken/147845 | Kraken | Sr. Sales Manager EMEA — Kraken Institutional [4.40/5 — top-5 crypto exchange institutional team; 7+ yrs institutional sales in trading/crypto required; remote EMEA ✓; $72k–$110k USD base (~ZAR 1.37M–2.09M, upper end meets walk-away); ⚠️ listing language says "located in Europe or UK" — verify SA-Africa eligibility explicitly]
+- [ ] https://remotive.com/remote/jobs/sales/vice-president-of-sales-4728965 | Banyan Software | VP of Sales [4.20/5 — VP-level seniority ✓; vertical market SaaS acquirer with fintech/banking tech portfolio; remote; 8+ yrs progressive sales leadership in SaaS/fintech/banking tech required; ⚠️ verify SA remote eligibility and whether financial software vertical is active]
+- [ ] https://weworkremotely.com/remote-jobs/fis-capital-markets-account-manager-ii | FIS Capital Markets | Account Manager II [3.60/5 — capital markets tech (NYSE: FIS); enterprise client account management across FIS platform suite; ⚠️ "Account Manager II" seniority is a step below current Director role; verify SA remote eligibility — WWR listing may be US-focused]
