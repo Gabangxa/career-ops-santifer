@@ -449,3 +449,16 @@
 - [ ] https://job-boards.greenhouse.io/fireblocks/jobs/4643564006 | Fireblocks | Sales Director, TradFi & Banking [4.55/5 — institutional digital assets, Director seniority ✓; targets Tier 1/2 banks EMEA; distinct from EMEA TradFi & Banking (4605783006) already in pipeline; ⚠️ London preferred — verify SA remote eligibility before applying]
 - [ ] https://job-boards.greenhouse.io/fireblocks/jobs/4591269006 | Fireblocks | Account Executive, Africa [4.35/5 — Africa territory maps directly to Sokhana's Southern/West Africa network (Nigeria, Ghana, South Africa); institutional digital assets; AE seniority ✓; ⚠️ London-listed but Fireblocks hires EMEA remote — confirm SA-remote explicitly for Africa territory role]
 - [ ] https://job-boards.greenhouse.io/fireblocks/jobs/4600099006 | Fireblocks | Senior Account Executive [4.10/5 — institutional digital assets, Senior AE seniority ✓; ⚠️ DACH/Baltics/Nordics/CEE territory doesn't include SA — prioritise Africa AE (4591269006) and Sales Director (4643564006) over this one; include as fallback]
+
+## Added 2026-07-06
+
+- [ ] https://ripple.com/careers/all-jobs/job/7870749/ | Ripple | Head of Customer Success & Support [⚠️ hybrid 10+ days/month; verify SA remote eligibility]
+- [ ] https://ripple.com/careers/all-jobs/job/7622830/ | Ripple | Customer Success Senior Manager [⚠️ hybrid 10+ days/month; verify SA remote eligibility]
+- [ ] https://ripple.com/careers/all-jobs/job/7838044/ | Ripple | Project Manager [⚠️ hybrid 10+ days/month; verify scope for Sales/CS fit]
+- [ ] https://job-boards.greenhouse.io/fireblocks/jobs/4603081006 | Fireblocks | Account Executive, Payments [⚠️ UK territory listed; verify SA remote eligibility]
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/5892220003 | Remote.com | Customer Success Implementation Manager, EMEA [EMEA ✓; HR/EOR platform domain]
+- [ ] https://remotive.com/remote/jobs/customer-service/customer-success-manager-5110866 | Multiplier | Customer Success Manager [⚠️ verify SA remote eligibility]
+- [ ] https://remotive.com/remote/jobs/customer-service/senior-customer-success-manager-5078057 | RemotePass | Senior Customer Success Manager [⚠️ verify SA remote eligibility]
+- [ ] https://remotive.com/remote/jobs/sales/account-executive-5078773 | Factbird | Account Executive [⚠️ non-fintech domain; verify SA remote eligibility]
+- [ ] https://remotive.com/remote/jobs/customer-service/customer-success-manager-5113288 | Leap Tools | Customer Success Manager [⚠️ non-fintech domain; verify SA remote eligibility]
+- [ ] https://job-boards.greenhouse.io/customerio/jobs/7176177 | Customer.io | Contract Customer Success Manager, EMEA [EMEA ✓; contract role; marketing SaaS domain]
