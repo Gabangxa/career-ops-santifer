@@ -462,3 +462,11 @@
 - [ ] https://remotive.com/remote/jobs/sales/account-executive-5078773 | Factbird | Account Executive [⚠️ non-fintech domain; verify SA remote eligibility]
 - [ ] https://remotive.com/remote/jobs/customer-service/customer-success-manager-5113288 | Leap Tools | Customer Success Manager [⚠️ non-fintech domain; verify SA remote eligibility]
 - [ ] https://job-boards.greenhouse.io/customerio/jobs/7176177 | Customer.io | Contract Customer Success Manager, EMEA [EMEA ✓; contract role; marketing SaaS domain]
+
+## Added 2026-07-07
+- [ ] https://jobs.ashbyhq.com/kraken.com/9b6ef26d-0e1b-4a7e-8a52-b4d568a332ab | Kraken | Account Executive, Trading-as-a-Service (TaaS) [4.40/5 — capital markets TaaS to FIs/broker-dealers; 8+ yrs FS required; Kraken remote-first 70+ countries; ⚠️ verify SA vs "European base preferred"]
+- [ ] https://job-boards.greenhouse.io/fireblocks/jobs/4554781006 | Fireblocks | Sales Director, Dubai [4.20/5 — institutional digital assets; ⚠️ "Dubai" may be in-office or ME territory — verify remote eligibility; distinct from other Fireblocks SD listings]
+- [ ] https://job-boards.greenhouse.io/carta/jobs/7491517003 | Carta | Director of Sales, Private Equity, Fund Admin [4.15/5 — PE/fund admin fintech; Director seniority ✓; ⚠️ US-focus — verify SA remote; distinct from 7491515003 in pipeline]
+- [ ] https://job-boards.greenhouse.io/nuitee/jobs/4835260101 | Nuitée | Business Development Director (EMEA/Remote) [3.90/5 — EMEA remote ✓; Director seniority ✓; ⚠️ travel/hotel API — off-fintech domain]
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8026617 | Twilio | Strategic Account Executive 4 [3.90/5 — Enterprise AE, EMEA remote likely; ⚠️ communications SaaS domain; verify distinct from Remotive Twilio listing in pipeline]
+- [ ] https://job-boards.greenhouse.io/prove/jobs/6014005004 | Prove | Customer Success Manager, Enterprise [3.60/5 — digital identity for banks; ⚠️ likely US-based — verify SA remote; distinct from Prove CSM Banking (5694914004) in pipeline]
