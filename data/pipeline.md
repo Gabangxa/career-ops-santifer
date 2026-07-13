@@ -480,3 +480,20 @@
 - [ ] https://jobs.ashbyhq.com/dynamic/60f5d1d2-bc6e-4ff7-960f-a5af651a0852 | Dynamic | Business Development Manager/Director — FinTech [4.08/5 — embedded wallet/auth infra BD; FinTech B2B SaaS; remote-friendly Series B; ⚠️ domain stretch from institutional trading — best if open to fintech infra at Director level]
 - [ ] https://jobs.ashbyhq.com/allium/23799866-034c-483d-a672-a671e4cd2d4b | Allium | Customer Success Manager (Founding) [4.00/5 — founding CSM at blockchain data analytics startup; institutional + compliance client base; fully remote crypto-native; high ownership/ambiguity tradeoff]
 - [ ] https://jobs.ashbyhq.com/brale/109c49fc-fa3d-46ef-bbee-3bf6ea12438e | Brale | Account Executive [3.95/5 — regulated stablecoin issuance platform; B2B sales to banks/fintechs; remote-first; ⚠️ AE seniority level is below Director-track target — include only if stablecoin/payments space is of interest]
+
+## Added 2026-07-13
+
+- [ ] https://ripple.com/careers/all-jobs/job/8000248/?gh_jid=8000248 | Ripple | Account Executive, Ripple Treasury [⚠️ Ripple hybrid 10+ days/month; verify SA remote eligibility; distinct from all existing Ripple listings in pipeline]
+- [ ] https://ripple.com/careers/all-jobs/job/7793193/ | Ripple | Customer Success Senior Manager [⚠️ verify if distinct from 7622830 already in pipeline; Ripple hybrid 10+ days/month caveat applies]
+- [ ] https://job-boards.greenhouse.io/remotereferralboardinternaluseonly/jobs/7793430003 | Remote.com | Customer Success Manager, SMB – EMEA [EMEA fully remote ✓; ⚠️ HR/EOR platform not fintech; multiple Remote.com CSM roles already in pipeline]
+- [ ] https://job-boards.greenhouse.io/mixpanel/jobs/7993118 | Mixpanel | Channel Sales Manager, EMEA [EMEA ✓; ⚠️ analytics SaaS not fintech; verify SA remote eligibility]
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7870467 | Planet Labs | Customer Success Manager, EMEA Civil Governments [EMEA ✓; ⚠️ geospatial/satellite domain not fintech — off-domain]
+- [ ] https://automattic.com/work-with-us/job/customer-success-manager/ | Automattic | Customer Success Manager [100% distributed ✓; ⚠️ WordPress/WooCommerce domain not fintech; $90k–$130k USD]
+- [ ] https://automattic.com/work-with-us/job/technical-account-manager-automattic-special-projects-team/ | Automattic | Technical Account Manager, Special Projects Team [100% distributed ✓; ⚠️ WordPress VIP domain not fintech]
+- [ ] https://automattic.com/work-with-us/customer-success-associate-woocommerce/ | Automattic | Customer Success Associate, WooCommerce [100% distributed ✓; ⚠️ Associate-level may be step down from Director role; WooCommerce e-commerce domain]
+- [ ] https://remotive.com/remote/jobs/customer-service/customer-success-manager-4824842 | Benchmark IT Solutions | Customer Success Manager, EMEA/APAC [EMEA eligible ✓; ⚠️ IT solutions domain not fintech; verify SA remote eligibility]
+- [ ] https://remotive.com/remote/jobs/customer-service/senior-customer-success-manager-4513048 | Miro | Senior Customer Success Manager [⚠️ verify SA remote eligibility — collaboration/whiteboard SaaS not fintech]
+- [ ] https://remotive.com/remote/jobs/customer-service/strategic-customer-success-manager-4282866 | LaunchDarkly | Strategic Customer Success Manager [⚠️ feature management SaaS not fintech; verify SA remote eligibility]
+- [ ] https://job-boards.greenhouse.io/youappi/jobs/5970374 | YouAppi | Director of Sales, EMEA [Director of Sales seniority ✓; ⚠️ mobile app retargeting/ad tech domain not fintech; verify SA remote eligibility]
+- [ ] https://careers.spglobal.com/jobs/323702 | S&P Global | Account Manager – EMEA [financial data/markets domain ✓; ⚠️ old posting (Dec 2025) — verify still active; Multiple Locations EMEA]
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/7985177 | Twilio | Strategic Account Executive 3 [⚠️ communications SaaS not fintech; verify SA remote eligibility; distinct from SAE 4 (8026617) already in pipeline]
