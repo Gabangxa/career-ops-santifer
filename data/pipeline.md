@@ -549,3 +549,7 @@
 - [ ] https://job-boards.greenhouse.io/fireblocks/jobs/4599435006 | Fireblocks | EMEA Sales Role [3.60/5 — institutional digital asset infrastructure; ⚠️ exact title unverified (Greenhouse API blocked) — ID sequence adjacent to SD Payments/Banking listings; verify title and territory]
 - [ ] https://job-boards.greenhouse.io/fireblocks/jobs/4558518006 | Fireblocks | EMEA Sales Role [3.60/5 — institutional digital asset infrastructure; ⚠️ exact title unverified (Greenhouse API blocked) — ID between CSM EMEA and AE Africa in Fireblocks sequence; verify title and seniority]
 - [ ] https://job-boards.greenhouse.io/jumio/jobs/4701818005 | Jumio | Account Executive, EMEA [3.55/5 — digital identity/KYC/AML platform serving banks and fintechs; EMEA role; AE archetype match; ⚠️ identity verification domain adjacent to core FX/trading — evaluate if open to fintech-adjacent; verify SA remote]
+
+## Added 2026-07-25
+
+- [ ] https://job-boards.greenhouse.io/bitgo/jobs/8555322002 | BitGo | Senior Customer Success Manager, Fintech [4.03/5 — institutional crypto custodian; Senior CSM archetype match; strong domain fit with FX/institutional background; ⚠️ verify SA remote eligibility and title via Playwright — Greenhouse API blocked this run]
