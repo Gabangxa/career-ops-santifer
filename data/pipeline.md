@@ -553,3 +553,15 @@
 ## Added 2026-07-25
 
 - [ ] https://job-boards.greenhouse.io/bitgo/jobs/8555322002 | BitGo | Senior Customer Success Manager, Fintech [4.03/5 — institutional crypto custodian; Senior CSM archetype match; strong domain fit with FX/institutional background; ⚠️ verify SA remote eligibility and title via Playwright — Greenhouse API blocked this run]
+
+## Added 2026-07-27
+
+- [ ] https://weworkremotely.com/remote-jobs/customer-io-account-manager-emea | Customer.io | Account Manager, EMEA [⚠️ marketing automation SaaS; multiple Customer.io roles in pipeline — verify distinct from existing AM EMEA listings]
+- [ ] https://automattic.com/work-with-us/job/account-executive-wordpress-vip/ | Automattic | Account Executive, WordPress VIP [100% distributed ✓; ⚠️ WordPress VIP enterprise sales, off-fintech domain]
+- [ ] https://automattic.com/work-with-us/job/customer-success-engineer-vip/ | Automattic | Customer Success Engineer, VIP [100% distributed ✓; ⚠️ technical CSE role, off-domain]
+- [ ] https://jobs.ashbyhq.com/upflow/d25957b8-1838-4d2f-b567-9d569289fb68 | Upflow | Account Executive, EMEA Market [fintech SaaS (AR/billing); EMEA remote ✓; ⚠️ verify SA eligibility]
+- [ ] https://jobs.lever.co/tryjeeves/37ea0096-1bef-4440-bf50-ee8ac2f54ed3 | Jeeves | Account Executive [fintech (corporate cards, EMEA expansion); ⚠️ verify SA remote eligibility]
+- [ ] https://startup.jobs/account-executive-emea-fully-remote-omnipresent-group-2926094 | Omnipresent Group | Account Executive, EMEA [fully remote EMEA ✓; ⚠️ EOR/HR platform not fintech domain]
+- [ ] https://startup.jobs/remote-customer-success-onboarding-specialist-emea-floatcom-4198407 | Float | Customer Success Onboarding Specialist, EMEA [⚠️ resource planning SaaS; verify SA remote eligibility]
+- [ ] https://job-boards.greenhouse.io/falconx/jobs/4441889005 | FalconX | (title unverified — crypto institutional trading) [⚠️ verify title and SA remote eligibility before evaluating]
+- [ ] https://job-boards.greenhouse.io/falconx/jobs/4489384005 | FalconX | (title unverified — crypto institutional trading) [⚠️ verify title and SA remote eligibility before evaluating]
