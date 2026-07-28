@@ -565,3 +565,15 @@
 - [ ] https://startup.jobs/remote-customer-success-onboarding-specialist-emea-floatcom-4198407 | Float | Customer Success Onboarding Specialist, EMEA [⚠️ resource planning SaaS; verify SA remote eligibility]
 - [ ] https://job-boards.greenhouse.io/falconx/jobs/4441889005 | FalconX | (title unverified — crypto institutional trading) [⚠️ verify title and SA remote eligibility before evaluating]
 - [ ] https://job-boards.greenhouse.io/falconx/jobs/4489384005 | FalconX | (title unverified — crypto institutional trading) [⚠️ verify title and SA remote eligibility before evaluating]
+
+## Added 2026-07-28
+
+- [ ] https://job-boards.greenhouse.io/mesh/jobs/5370177008 | Mesh | Director of Sales (Europe Remote) [4.35/5 — crypto/fintech payment connectivity serving exchanges, wallets, banks; Europe Remote ✓ (SA eligibility unconfirmed — ⚠️ verify before applying); new ID distinct from prior Mesh Director listings]
+- [ ] https://job-boards.eu.greenhouse.io/ebury/jobs/4555918101 | Ebury | Key Account Director (Düsseldorf) [4.20/5 — FX / cross-border payments for SMEs; PERFECT domain match to Bloomberg/SGX FX background; ⚠️ office-based Düsseldorf, Germany — monitor for remote/EMEA-remote Ebury variants]
+- [ ] https://job-boards.greenhouse.io/alphasense/jobs/8605590002 | AlphaSense | Senior Director, Account Management, Consulting [3.75/5 — market intelligence platform; Consulting segment (differs from Financial Services vertical already in pipeline which scores higher); London-preferred EMEA ⚠️ SA unconfirmed]
+- [ ] https://job-boards.eu.greenhouse.io/convera/jobs/4691579101 | Convera | Business Development Manager, FX Sales [3.65/5 — largest non-bank B2B cross-border FX/payments (formerly Western Union Business Solutions); PERFECT domain; ⚠️ title estimated from web search; ⚠️ London office-based — verify remote]
+- [ ] https://job-boards.eu.greenhouse.io/convera/jobs/4742268101 | Convera | (title unverified — B2B cross-border FX/payments; PERFECT domain) [⚠️ verify title, seniority, and remote eligibility via Playwright before evaluating]
+- [ ] https://job-boards.eu.greenhouse.io/convera/jobs/4766005101 | Convera | (title unverified — B2B cross-border FX/payments; PERFECT domain) [⚠️ verify title, seniority, and remote eligibility via Playwright before evaluating]
+- [ ] https://job-boards.eu.greenhouse.io/convera/jobs/4751927101 | Convera | (title unverified — B2B cross-border FX/payments; PERFECT domain) [⚠️ verify title, seniority, and remote eligibility via Playwright before evaluating]
+- [ ] https://job-boards.eu.greenhouse.io/convera/jobs/4802453101 | Convera | (title unverified — B2B cross-border FX/payments; PERFECT domain) [⚠️ verify title, seniority, and remote eligibility via Playwright before evaluating]
+- [ ] https://boards.greenhouse.io/ebury/jobs/4383861101 | Ebury | (title unverified — FX / cross-border payments; strong domain) [⚠️ verify title and remote eligibility via Playwright before evaluating]
