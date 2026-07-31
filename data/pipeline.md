@@ -577,3 +577,14 @@
 - [ ] https://job-boards.eu.greenhouse.io/convera/jobs/4751927101 | Convera | (title unverified — B2B cross-border FX/payments; PERFECT domain) [⚠️ verify title, seniority, and remote eligibility via Playwright before evaluating]
 - [ ] https://job-boards.eu.greenhouse.io/convera/jobs/4802453101 | Convera | (title unverified — B2B cross-border FX/payments; PERFECT domain) [⚠️ verify title, seniority, and remote eligibility via Playwright before evaluating]
 - [ ] https://boards.greenhouse.io/ebury/jobs/4383861101 | Ebury | (title unverified — FX / cross-border payments; strong domain) [⚠️ verify title and remote eligibility via Playwright before evaluating]
+
+## Added 2026-07-31
+
+- [ ] https://remotive.com/remote/jobs/sales/regional-sales-director-emea-dach-5008322 | SpyCloud | Regional Sales Director, EMEA (DACH) [4.10/5 — enterprise identity-threat intelligence; Director seniority; EMEA remote on Remotive; ⚠️ cybersecurity domain (not FX); ⚠️ DACH territory — verify SA-based remote acceptable]
+- [ ] https://web3.career/business-development-manager-crypto-emea-unlimit/106532 | Unlimit | Business Development Manager (Crypto, EMEA) [4.05/5 — global fintech payments/crypto on-off-ramp/BaaS; EMEA remote with offices Dubai/Amsterdam/Limassol; ⚠️ comp $68k–$90k USD likely below ZAR 1.8M walk-away — verify OTE/equity]
+- [ ] https://job-boards.greenhouse.io/breezecash/jobs/5223940008 | Breeze | Senior Account Executive [4.00/5 — universal crypto/fiat payment layer; new listing distinct from ID 4946386008 already in pipeline; ⚠️ verify SA remote eligibility and comp vs walk-away]
+- [ ] https://job-boards.greenhouse.io/breezecash/jobs/5156335008 | Breeze | Account Manager, Payments [4.00/5 — crypto/fiat payment platform serving fintechs/mobile/games; ⚠️ verify SA remote eligibility and comp vs ZAR 1.8M walk-away]
+- [ ] https://web3.career/i/2EDM3QTM | OpenZeppelin | Institutional Sales Lead, Europe [3.95/5 — first EMEA institutional hire; targets Tier 1 banks/FIs moving onchain; est. $154k–$175k; ⚠️ "Europe" remote — verify if SA counts; strong Bloomberg institutional background match]
+- [ ] https://boards.greenhouse.io/amount/jobs/4217753007 | Amount | Senior Customer Success Manager [3.80/5 — digital banking platform for banks and credit unions; 7+ yrs fintech required; ⚠️ verify SA remote eligibility]
+- [ ] https://job-boards.greenhouse.io/ebury/jobs/4600532101 | Ebury | Customer Success Manager / Account Manager, EMEA [3.65/5 — PERFECT FX/cross-border payments domain (Bloomberg FX background); ⚠️ likely High Wycombe UK office-based — confirm fully remote before applying]
+- [ ] https://boards.greenhouse.io/marqeta/jobs/6047024 | Marqeta | Senior Account Executive, EU/UK [3.60/5 — card issuing/payments fintech; EU/UK territory; ⚠️ verify SA-based remote eligibility]
