@@ -600,3 +600,19 @@
 - [ ] https://remotive.com/remote/jobs/account-management/strategic-account-manager-4899010 | Morpho | Strategic Account Manager [4.23/5 — major DeFi lending protocol; SAM role managing CFO/CRO/Heads of Crypto relationships; 6+ yrs enterprise account management required; fully remote ✓; ⚠️ AM seniority below Director target]
 - [ ] https://jobs.lever.co/dlocal/d17adba1-1a13-49b3-a77e-1f471a8cf800 | dLocal | VP, Operations — Africa [4.08/5 — EM payments (Africa/LatAm/SEA); VP level ✓; Africa territory ownership; ⚠️ Operations title — verify if commercial/partnerships scope covers Sokhana's strengths; preferred locations Cape Town/Lagos/Nairobi]
 - [ ] https://job-boards.greenhouse.io/ozow/jobs/7800988003 | Ozow | Enterprise Solutions Lead [3.80/5 — SA fintech payment rails; Enterprise Solutions Lead (AE/BD hybrid); 8+ yrs fintech required; SA-based ✓; ⚠️ verify fully remote vs Johannesburg office attendance required]
+
+## Added 2026-08-03
+
+- [ ] https://jobs.ashbyhq.com/coreplan/c02d79bd-2fde-4ec1-8a90-9c257af91100 | CorePlan | Senior Account Executive, EMEA [★ SA ✓ — explicitly Johannesburg or Cape Town; project-based resource management SaaS for construction/engineering; verify company domain fit and SA office setup]
+- [ ] https://job-boards.eu.greenhouse.io/ebury/jobs/4540584101 | Ebury | [title TBD — verify on page] [★★ PERFECT domain — FX/cross-border payments for SMEs/corporates; EMEA-wide; verify specific role title and seniority]
+- [ ] https://boards.eu.greenhouse.io/ebury/jobs/4373607101 | Ebury | [title TBD — verify on page] [★★ PERFECT domain — FX/cross-border payments; verify specific role title and seniority]
+- [ ] https://job-boards.eu.greenhouse.io/ebury/jobs/4589207101 | Ebury | [title TBD — verify on page] [★★ PERFECT domain — FX/cross-border payments; verify specific role title and seniority]
+- [ ] https://job-boards.eu.greenhouse.io/ebury/jobs/4541758101 | Ebury | [title TBD — verify on page] [★★ PERFECT domain — FX/cross-border payments; verify specific role title and seniority]
+- [ ] https://boards.greenhouse.io/ebury/jobs/4472763101 | Ebury | [title TBD — verify on page] [★★ PERFECT domain — FX/cross-border payments; verify specific role title and seniority]
+- [ ] https://job-boards.greenhouse.io/ebury/jobs/4537122101 | Ebury | [title TBD — verify on page] [★★ PERFECT domain — FX/cross-border payments; verify specific role title and seniority]
+- [ ] https://startup.jobs/vice-president-customer-success-emea-apac-exabeam-2752035 | Exabeam | VP, Customer Success — EMEA & APAC [VP seniority ✓; EMEA & APAC ✓; cybersecurity SaaS — off-domain; verify SA-based remote eligibility]
+- [ ] https://job-boards.greenhouse.io/customerio/jobs/8089365 | Customer.io | Customer Success Manager, EMEA [marketing automation SaaS; EMEA ✓; CSM level — verify seniority scope and SA remote eligibility]
+- [ ] https://remotive.com/remote/jobs/sales-business/head-of-sales-4073916 | Secfix | Head of Sales [fully remote ✓; cybersecurity compliance SaaS (SOC 2 / ISO 27001); Head of Sales = Director-level mandate; early-stage startup]
+- [ ] https://www.networkerstechnology.com/job/CLGMS2000010856/sales-director-fintech--payments-johannesburg-johannesburg-south-africa | (via Networkers Technology) | Sales Director — Fintech/Payments, Johannesburg [★ SA ✓ — Johannesburg-based; R90-100k/month basic + OTE ~R1.6M; payments/fintech sector; recruiter listing — verify end client and full role details]
+- [ ] https://jobs.ashbyhq.com/supabase/2e7d8489-54f4-4d0f-b1a4-25411486e2dc | Supabase | Account Executive (EMEA) [open-source database platform; EMEA time zones ✓; AE seniority — below Director target but high-growth company; verify SA remote eligibility]
+- [ ] https://job-boards.greenhouse.io/webflow/jobs/7488576 | Webflow | Customer Success Manager, EMEA [no-code web platform; EMEA ✓; ⚠️ London hybrid — verify if fully remote SA-based accepted]
