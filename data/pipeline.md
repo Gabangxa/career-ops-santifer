@@ -616,3 +616,15 @@
 - [ ] https://www.networkerstechnology.com/job/CLGMS2000010856/sales-director-fintech--payments-johannesburg-johannesburg-south-africa | (via Networkers Technology) | Sales Director — Fintech/Payments, Johannesburg [★ SA ✓ — Johannesburg-based; R90-100k/month basic + OTE ~R1.6M; payments/fintech sector; recruiter listing — verify end client and full role details]
 - [ ] https://jobs.ashbyhq.com/supabase/2e7d8489-54f4-4d0f-b1a4-25411486e2dc | Supabase | Account Executive (EMEA) [open-source database platform; EMEA time zones ✓; AE seniority — below Director target but high-growth company; verify SA remote eligibility]
 - [ ] https://job-boards.greenhouse.io/webflow/jobs/7488576 | Webflow | Customer Success Manager, EMEA [no-code web platform; EMEA ✓; ⚠️ London hybrid — verify if fully remote SA-based accepted]
+
+## Added 2026-08-04
+
+- [ ] https://boards.greenhouse.io/bitgo/jobs/6101259002 | BitGo | Director of Sales, EMEA [★★ 4.68/5 — digital assets custody/prime brokerage; Director of Sales EMEA; institutional sales archetype; ⚠️ verify SA remote eligibility vs London/EMEA hub; ⚠️ verify active via Playwright]
+- [ ] https://boards.greenhouse.io/circle/jobs/6880863002 | Circle | Business Development Director, Wholesale Liquidity [★★ 4.60/5 — USDC/stablecoin infrastructure; BD Director; wholesale liquidity/institutional treasury; ⚠️ verify SA remote eligibility; ⚠️ verify active via Playwright]
+- [ ] https://remotive.com/remote/jobs/customer-service/director-customer-success-cx-4440344 | NICE | Director, Customer Success, CX [4.50/5 — fully remote ✓; Director-level CS; ⚠️ verify NICE CXone vs NICE Actimize (banking/AML) — if Actimize = top priority; ⚠️ verify active via Playwright]
+- [ ] https://boards.greenhouse.io/sigtech/jobs/4796398004 | SigTech | Sales Director - Data [4.45/5 — quantitative investment platform; Sales Director; data product; institutional buy-side clients; ⚠️ verify EMEA/SA remote eligibility; ⚠️ verify active via Playwright]
+- [ ] https://boards.greenhouse.io/picoquantitativetrading/jobs/4410746006 | Pico | Sales Account Manager [3.93/5 — financial markets infrastructure/connectivity; ⚠️ SAM seniority below Director target; verify EMEA territory scope and comp; ⚠️ verify active via Playwright]
+- [ ] https://job-boards.greenhouse.io/btig27/jobs/7985108002 | BTIG | [title TBD — verify on page] [institutional capital markets brokerage; ⚠️ verify title and seniority match via Playwright]
+- [ ] https://boards.greenhouse.io/ebury/jobs/4383829101 | Ebury | [title TBD — verify on page] [★★ PERFECT domain — FX/cross-border payments; EMEA-wide; verify specific role title and seniority]
+- [ ] https://job-boards.greenhouse.io/ebury/jobs/4558365101 | Ebury | [title TBD — verify on page] [★★ PERFECT domain — FX/cross-border payments; EMEA-wide; verify specific role title and seniority]
+- [ ] https://remotive.com/remote/jobs/sales/sales-director-5044800 | Mivada | Sales Director [Sales Director title ✓; fully remote; ⚠️ verify company domain and sector before evaluating]
