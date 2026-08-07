@@ -628,3 +628,9 @@
 - [ ] https://boards.greenhouse.io/ebury/jobs/4383829101 | Ebury | [title TBD — verify on page] [★★ PERFECT domain — FX/cross-border payments; EMEA-wide; verify specific role title and seniority]
 - [ ] https://job-boards.greenhouse.io/ebury/jobs/4558365101 | Ebury | [title TBD — verify on page] [★★ PERFECT domain — FX/cross-border payments; EMEA-wide; verify specific role title and seniority]
 - [ ] https://remotive.com/remote/jobs/sales/sales-director-5044800 | Mivada | Sales Director [Sales Director title ✓; fully remote; ⚠️ verify company domain and sector before evaluating]
+
+## Added 2026-08-07
+
+- [ ] https://remotive.com/remote/jobs/sales/account-executive-4954881 | Juniper Square | Account Executive [4.55/5 — investment management software platform; sells to PE, VC, real estate institutional investors; 10+ yrs B2B full-cycle enterprise sales required; strong alignment to Bloomberg/SGX FX institutional background; fully remote on Remotive ✓]
+- [ ] https://job-boards.greenhouse.io/array/jobs/5477345004 | Array | Account Executive, Partnerships [4.15/5 — embedded finance/credit API platform selling to banks, fintechs, digital brands; AE archetype #1; remote-first culture ✓; ⚠️ US-headquartered — verify SA hiring eligibility explicitly (prior Array listings flagged same concern)]
+- [ ] https://startup.jobs/high-touch-customer-success-manager-emea-ashby-7284239 | Ashby | High Touch Customer Success Manager, EMEA [3.70/5 — EMEA remote ✓; high-touch enterprise CSM managing strategic accounts; ⚠️ Ashby makes recruiting/ATS software — non-fintech domain; evaluate only if open to SaaS domain expansion beyond financial services]
