@@ -668,3 +668,9 @@
 - [ ] https://automattic.com/work-with-us/job/technical-account-manager-pressable/ | Automattic | Technical Account Manager, Pressable [Account Manager archetype ✓; 100% distributed global remote ✓; ⚠️ WordPress/hosting domain not fintech — verify comp and role fit]
 - [ ] https://web3.career/account-manager-bnb-chain-binance/35152 | Binance | Account Manager, BNB Chain [Account Manager archetype ✓; crypto/web3 ✓; ⚠️ listed as Europe territory — verify SA eligibility before applying]
 - [ ] https://job-boards.greenhouse.io/censys/jobs/8541249002 | Censys | Customer Success Manager [Customer Success archetype ✓; cybersecurity domain; ⚠️ verify SA remote eligibility and whether CSM role maps to sales/BD background]
+
+## Added 2026-08-22
+
+- [ ] https://web3.career/sales-director-fintech-bitgo/144470 | BitGo | Sales Director, Fintech [4.80/5 — institutional digital asset custody; Sales Director archetype #1; global remote ✓; ⚠️ comp listed ~$84k–$90k USD (~ZAR 1.55M–1.65M) BELOW walk-away of ZAR 1.8M — verify total OTE and equity before applying]
+- [ ] https://job-boards.greenhouse.io/btig27/jobs/7815467002 | BTIG | [title TBD — institutional capital markets brokerage; verify title, seniority, and remote eligibility via Playwright — new ID distinct from 7985108002 and 7101372002 already in pipeline]
+- [ ] https://job-boards.greenhouse.io/btig27/jobs/7968107002 | BTIG | [title TBD — institutional capital markets brokerage; verify title, seniority, and remote eligibility via Playwright — third BTIG listing this pipeline]
