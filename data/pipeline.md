@@ -674,3 +674,12 @@
 - [ ] https://web3.career/sales-director-fintech-bitgo/144470 | BitGo | Sales Director, Fintech [4.80/5 — institutional digital asset custody; Sales Director archetype #1; global remote ✓; ⚠️ comp listed ~$84k–$90k USD (~ZAR 1.55M–1.65M) BELOW walk-away of ZAR 1.8M — verify total OTE and equity before applying]
 - [ ] https://job-boards.greenhouse.io/btig27/jobs/7815467002 | BTIG | [title TBD — institutional capital markets brokerage; verify title, seniority, and remote eligibility via Playwright — new ID distinct from 7985108002 and 7101372002 already in pipeline]
 - [ ] https://job-boards.greenhouse.io/btig27/jobs/7968107002 | BTIG | [title TBD — institutional capital markets brokerage; verify title, seniority, and remote eligibility via Playwright — third BTIG listing this pipeline]
+
+## Added 2026-08-24
+
+- [ ] https://job-boards.greenhouse.io/ebury/jobs/4918400101 | Ebury | Key Account Director [★★ PERFECT domain — FX/cross-border payments; Account Director seniority ✓; ⚠️ likely office-based — verify SA remote eligibility before applying]
+- [ ] https://job-boards.greenhouse.io/ebury/jobs/4918381101 | Ebury | FX Sales Associate [FX Sales domain ✓; ⚠️ Associate seniority may be step down from Director role — verify scope and SA remote eligibility]
+- [ ] https://web3.career/director-institutional-sales-group-kraken/140328 | Kraken | Director of Institutional Sales, EMEA [Director-level institutional sales ✓; Kraken remote-first 70+ countries; ⚠️ verify SA eligibility vs EMEA hub preference; distinct from Sr. Sales Manager EMEA already in pipeline]
+- [ ] https://web3.career/institutional-relationship-and-solution-manager-trading-technology-kraken/56444 | Kraken | Institutional Relationship and Solution Manager, Trading Technology [$90k–$153k remote; Kraken 70+ countries; Relationship Manager archetype ✓; trading technology domain ✓; ⚠️ verify SA eligibility]
+- [ ] https://job-boards.greenhouse.io/remotereferralboardinternaluseonly/jobs/7799536003 | Remote.com | Growth Customer Success Manager, EMEA [EMEA fully remote ✓; Customer Success archetype ✓; ⚠️ HR/EOR platform not fintech; distinct from SMB CSM listing already in pipeline]
+- [ ] https://remotive.com/remote/jobs/sales/account-executive-5222802 | DoiT | Account Executive (EMEA) [EMEA remote; Account Executive archetype ✓; ⚠️ cloud/FinOps domain not fintech; ⚠️ may overlap with Greenhouse listing doitintl/7793427003 already in pipeline — verify distinct before applying]
