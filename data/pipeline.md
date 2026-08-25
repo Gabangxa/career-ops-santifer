@@ -683,3 +683,8 @@
 - [ ] https://web3.career/institutional-relationship-and-solution-manager-trading-technology-kraken/56444 | Kraken | Institutional Relationship and Solution Manager, Trading Technology [$90k–$153k remote; Kraken 70+ countries; Relationship Manager archetype ✓; trading technology domain ✓; ⚠️ verify SA eligibility]
 - [ ] https://job-boards.greenhouse.io/remotereferralboardinternaluseonly/jobs/7799536003 | Remote.com | Growth Customer Success Manager, EMEA [EMEA fully remote ✓; Customer Success archetype ✓; ⚠️ HR/EOR platform not fintech; distinct from SMB CSM listing already in pipeline]
 - [ ] https://remotive.com/remote/jobs/sales/account-executive-5222802 | DoiT | Account Executive (EMEA) [EMEA remote; Account Executive archetype ✓; ⚠️ cloud/FinOps domain not fintech; ⚠️ may overlap with Greenhouse listing doitintl/7793427003 already in pipeline — verify distinct before applying]
+
+## Added 2026-08-25
+
+- [ ] https://job-boards.greenhouse.io/bitgo/jobs/8464699002 | BitGo | Managing Director, Head of EU Sales [4.40/5 — institutional digital asset custody & prime brokerage; Head of Sales archetype #2; ⚠️ "EU Sales" territory — verify SA remote eligibility vs EU hub preference; BitGo Director of Sales EMEA (6101259002) already in pipeline — confirm this is a distinct senior role]
+- [ ] https://job-boards.greenhouse.io/bitgo/jobs/8340883002 | BitGo | Sales Director, Pensions, Endowments, Foundations & Family Offices [4.20/5 — institutional digital asset custody; Sales Director archetype #2; PE/endowment/FO client base; ⚠️ likely US-based territory — verify SA remote eligibility before applying; separate vertical from EMEA and Fintech listings already in pipeline]
