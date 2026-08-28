@@ -688,3 +688,14 @@
 
 - [ ] https://job-boards.greenhouse.io/bitgo/jobs/8464699002 | BitGo | Managing Director, Head of EU Sales [4.40/5 — institutional digital asset custody & prime brokerage; Head of Sales archetype #2; ⚠️ "EU Sales" territory — verify SA remote eligibility vs EU hub preference; BitGo Director of Sales EMEA (6101259002) already in pipeline — confirm this is a distinct senior role]
 - [ ] https://job-boards.greenhouse.io/bitgo/jobs/8340883002 | BitGo | Sales Director, Pensions, Endowments, Foundations & Family Offices [4.20/5 — institutional digital asset custody; Sales Director archetype #2; PE/endowment/FO client base; ⚠️ likely US-based territory — verify SA remote eligibility before applying; separate vertical from EMEA and Fintech listings already in pipeline]
+
+## Added 2026-08-28
+
+- [ ] https://boards.greenhouse.io/coinbase/jobs/7113176 | Coinbase | International Exchange Sales Manager, Remote - Brazil [4.13/5 — crypto exchange institutional/derivatives sales; remote ✓; ⚠️ "Brazil" region tag — verify SA remote eligibility vs regional focus; strong FX/derivatives domain match]
+- [ ] https://boards.greenhouse.io/circle/jobs/7073975002 | Circle | Senior Director, Business Development, Americas [4.10/5 — stablecoin/USDC distribution; Senior Director seniority ✓; BD archetype #4; ⚠️ Americas-focused territory — verify SA remote eligibility]
+- [ ] https://boards.greenhouse.io/coinbase/jobs/6821780 | Coinbase | Senior Institutional Sales Associate, Remote - Singapore [4.00/5 — institutional crypto exchange products (Prime, Exchange, Derivatives); ⚠️ APAC region + Associate level below Director — verify scope, compensation, and SA eligibility before applying]
+- [ ] https://boards.greenhouse.io/circle/jobs/7066248002 | Circle | Director, Business Development, Americas [4.00/5 — USDC distribution strategy; Director seniority ✓; BD archetype #4; ⚠️ Americas territory focus — verify SA remote eligibility]
+- [ ] https://boards.greenhouse.io/circle/jobs/7500169002 | Circle | Business Development Director, Americas [4.00/5 — Circle product commercialization; Director level ✓; ⚠️ Americas territory; distinct from Director BD listing above — verify scope difference before applying]
+- [ ] https://boards.greenhouse.io/circle/jobs/6284518002 | Circle | Senior Director, Capital Markets [3.93/5 — Circle capital markets; Senior Director level ✓; domain relevant to trading/FX background; ⚠️ Americas-focused — verify SA remote eligibility]
+- [ ] https://boards.greenhouse.io/circle/jobs/7517062002 | Circle | Senior Manager, Business Development [3.73/5 — Circle BD Web3 ecosystem; ⚠️ Manager level below Sales Director — borderline seniority match; Americas-focused]
+- [ ] https://boards.greenhouse.io/circle/jobs/6064633002 | Circle | Business Development Manager, Americas [3.53/5 — Circle BD; ⚠️ Manager level below Director; Americas territory — borderline on both seniority and fit]
