@@ -699,3 +699,9 @@
 - [ ] https://boards.greenhouse.io/circle/jobs/6284518002 | Circle | Senior Director, Capital Markets [3.93/5 — Circle capital markets; Senior Director level ✓; domain relevant to trading/FX background; ⚠️ Americas-focused — verify SA remote eligibility]
 - [ ] https://boards.greenhouse.io/circle/jobs/7517062002 | Circle | Senior Manager, Business Development [3.73/5 — Circle BD Web3 ecosystem; ⚠️ Manager level below Sales Director — borderline seniority match; Americas-focused]
 - [ ] https://boards.greenhouse.io/circle/jobs/6064633002 | Circle | Business Development Manager, Americas [3.53/5 — Circle BD; ⚠️ Manager level below Director; Americas territory — borderline on both seniority and fit]
+
+## Added 2026-08-31
+
+- [ ] https://remotive.com/remote/jobs/sales/vice-president-sales-emea-5689708 | Wiz | Vice President, Sales EMEA [⚠️ cloud security domain not fintech; verify SA remote eligibility; 12+ yrs sales leadership required]
+- [ ] https://remotive.com/remote/jobs/sales/expand-sales-director-5605598 | Pebl | Expand Sales Director, EMEA/APAC [⚠️ interactive content SaaS not fintech; verify SA remote eligibility]
+- [ ] https://job-boards.greenhouse.io/nmi/jobs/4580688008 | NMI | Customer Success Manager (Cape Town, Hybrid) [SA Cape Town ✓; ⚠️ hybrid role (in-office Cape Town); US working hours required; OTE R380-420k well below ZAR 1.8M walk-away — flag for awareness only]
