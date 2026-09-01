@@ -705,3 +705,13 @@
 - [ ] https://remotive.com/remote/jobs/sales/vice-president-sales-emea-5689708 | Wiz | Vice President, Sales EMEA [⚠️ cloud security domain not fintech; verify SA remote eligibility; 12+ yrs sales leadership required]
 - [ ] https://remotive.com/remote/jobs/sales/expand-sales-director-5605598 | Pebl | Expand Sales Director, EMEA/APAC [⚠️ interactive content SaaS not fintech; verify SA remote eligibility]
 - [ ] https://job-boards.greenhouse.io/nmi/jobs/4580688008 | NMI | Customer Success Manager (Cape Town, Hybrid) [SA Cape Town ✓; ⚠️ hybrid role (in-office Cape Town); US working hours required; OTE R380-420k well below ZAR 1.8M walk-away — flag for awareness only]
+
+## Added 2026-09-01
+
+- [ ] https://job-boards.greenhouse.io/mesh/jobs/5254313008 | Mesh | Director of Sales [4.80/5 — crypto/DeFi payments fintech; Sales Director archetype #2; global remote ✓; strong domain match (crypto institutional sales); top pick today]
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/6146875004 | Alpaca | Head of Business Development [4.40/5 — trading API/embedded finance fintech; BD archetype #4; Head level ✓; globally remote ✓; strong domain match (electronic trading infrastructure)]
+- [ ] https://job-boards.greenhouse.io/customerio/jobs/8120574 | Customer.io | Mid-Market Account Executive, EMEA [4.10/5 — marketing automation SaaS; AE archetype #1; EMEA territory ✓; new GH listing distinct from pipeline entry 6100868]
+- [ ] https://weworkremotely.com/remote-jobs/melio-customer-success-manager | Melio | Customer Success Manager [4.00/5 — B2B payments fintech; CSM archetype #3; fully remote ✓; SMB/mid-market payments platform]
+- [ ] https://job-boards.greenhouse.io/wheelhouse/jobs/4667613005 | Wheelhouse | Commercial Account Executive (EU) [3.95/5 — fintech/hospitality revenue platform; AE archetype #1; EU territory ✓; ⚠️ AE level below Director — verify seniority and comp alignment]
+- [ ] https://job-boards.greenhouse.io/ridgeline/jobs/7865438003 | Ridgeline | Senior Customer Success Manager – Growth Segment [3.60/5 — investment management SaaS; CSM archetype #3; Senior level ✓; ⚠️ US-focused territory — verify SA remote eligibility before applying]
+- [ ] https://job-boards.greenhouse.io/elitetechnology/jobs/5409699008 | Elite Technology | Customer Success Manager [3.50/5 — legal tech SaaS; CSM archetype #3; EMEA ✓; ⚠️ legal tech domain below core fintech fit — borderline]
