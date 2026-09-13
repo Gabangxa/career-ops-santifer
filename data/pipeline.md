@@ -762,3 +762,7 @@
 - [ ] https://remotive.com/remote/jobs/sales/business-development-manager-4485849 | Pacifica Continental (recruiter) | Business Development Manager – Forex/CFD/Crypto/Fintech [3.85/5 — placed in FX/crypto/fintech firm; domain 5/5; ⚠️ 2-5 yrs requirement suggests mid-level below Director target — verify end company, actual seniority, and comp before applying]
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5282833008 | Anthropic | Manager, Account Executive – Financial Services [3.75/5 — leads AE team in FS vertical (banking/insurance/capital markets/payments); EMEA remote ✓; ⚠️ AI company not core fintech/FX domain — evaluate if open to AI/SaaS sales management adjacent to FS]
 - [ ] https://job-boards.eu.greenhouse.io/ebury/jobs/4582719101 | Ebury | [Title TBD — FX/cross-border payments, EMEA] [⚠️ MUST verify title and remote eligibility via Playwright before scoring — PERFECT domain (FX/cross-border payments); new ID distinct from all existing Ebury listings in pipeline; tentative 4.00/5 if Director/Manager with remote option]
+
+## Added 2026-09-13
+
+- [ ] https://web3.career/senior-enterprise-account-executive-finance-emea-chainalysis/29070 | Chainalysis | Senior Enterprise Account Executive, Finance EMEA [4.4/5 — blockchain analytics for banks/exchanges/FIs/regulators; institutional sales archetype #1; EMEA territory; 5/5 domain (direct overlap with Bloomberg/SGX institutional client base); ⚠️ verify SA-remote eligibility explicitly; comp ~$105k–$264k USD range]
