@@ -766,3 +766,12 @@
 ## Added 2026-09-13
 
 - [ ] https://web3.career/senior-enterprise-account-executive-finance-emea-chainalysis/29070 | Chainalysis | Senior Enterprise Account Executive, Finance EMEA [4.4/5 — blockchain analytics for banks/exchanges/FIs/regulators; institutional sales archetype #1; EMEA territory; 5/5 domain (direct overlap with Bloomberg/SGX institutional client base); ⚠️ verify SA-remote eligibility explicitly; comp ~$105k–$264k USD range]
+
+## Added 2026-09-14
+
+- [ ] https://web3.career/director-customer-success-emea-chainalysis/16954 | Chainalysis | Director, Customer Success – EMEA [blockchain analytics/compliance for banks/exchanges/FIs; Director-level CS; EMEA remote ✓; strong institutional domain fit; ⚠️ verify SA-remote eligibility vs London listing and comp vs ZAR 1.8M walk-away]
+- [ ] https://job-boards.greenhouse.io/fireblocks/jobs/4600745006 | Fireblocks | Account Executive [institutional crypto/blockchain infrastructure; ⚠️ territory unknown — verify region and whether SA-remote eligible; new GH ID distinct from all existing Fireblocks AE/SD pipeline entries]
+- [ ] https://job-boards.greenhouse.io/remotereferralboardinternaluseonly/jobs/7793430003 | Remote.com | Customer Success Manager, SMB – EMEA [EMEA fully remote ✓; SMB segment CSM; ⚠️ HR/EOR platform not fintech; new listing distinct from Growth CSM (7799536003) and other Remote.com CSM entries in pipeline]
+- [ ] https://weworkremotely.com/remote-jobs/customer-io-account-manager-emea | Customer.io | Account Manager, EMEA [marketing automation SaaS; EMEA remote ✓; Account Manager archetype #3; ⚠️ non-fintech domain; new WeWorkRemotely listing distinct from CSM EMEA (already in pipeline)]
+- [ ] https://remotive.com/remote/jobs/sales/sales-account-executive-5203946 | Zema Global | Sales/Account Executive [financial data analytics; AE archetype #1; ⚠️ verify SA remote eligibility and domain fit — Zema Global provides commodity/energy/financial data; verify seniority level and comp vs ZAR 1.8M walk-away]
+- [ ] https://remotive.com/remote/jobs/sales-business/business-development-manager-international-crypto-blockchain-3967749 | Caiz | Business Development Manager International – Crypto/Blockchain [crypto/blockchain startup; BD archetype #4; globally remote ✓; 5+ yrs BD in crypto/fintech required; ⚠️ low Remotive ID suggests older posting — verify still active before applying]
