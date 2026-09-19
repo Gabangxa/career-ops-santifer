@@ -784,3 +784,7 @@
 - [ ] https://boards.greenhouse.io/taxbit/jobs/5146793004 | TaxBit | Enterprise Account Executive, Tax & Accounting - Europe [4.35/5 — crypto tax & accounting enterprise AE for Europe; TaxBit is remote-first; distinct from existing TaxBit pipeline entries (Enterprise CSM 5718913004, Head of CS 5688840004, Director CS 5411050004)]
 - [ ] https://remotive.com/remote/jobs/sales/account-executive-corporate-5471678 | Vena Solutions | Account Executive, Corporate [4.10/5 — financial planning SaaS for CFOs; Corporate vertical distinct from Financial Services AE (4720972) already in pipeline; moderate domain fit; ⚠️ verify SA remote eligibility and comp vs ZAR 1.8M walk-away]
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/7903335003 | Remote.com | Sr. Customer Success Manager, MM/ENT [3.70/5 — Senior CSM for MM/ENT segment; EMEA fully remote ✓; ⚠️ HR/EOR platform not fintech — lowest priority; apply only if higher-fit roles are exhausted]
+
+## Added 2026-09-19
+
+- [ ] https://job-boards.greenhouse.io/alphasense/jobs/8817374002 | AlphaSense | Mid-Market Account Executive, Corporate [3.90/5 — market intelligence SaaS; AE archetype #1; EMEA remote ✓; ⚠️ Corporate vertical (pharma/tech/media) NOT the Financial Services vertical — 6 AlphaSense FS roles already in pipeline; lower priority unless open to selling outside FS; verify if this is distinct from any existing AlphaSense pipeline entries]
