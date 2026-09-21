@@ -788,3 +788,11 @@
 ## Added 2026-09-19
 
 - [ ] https://job-boards.greenhouse.io/alphasense/jobs/8817374002 | AlphaSense | Mid-Market Account Executive, Corporate [3.90/5 — market intelligence SaaS; AE archetype #1; EMEA remote ✓; ⚠️ Corporate vertical (pharma/tech/media) NOT the Financial Services vertical — 6 AlphaSense FS roles already in pipeline; lower priority unless open to selling outside FS; verify if this is distinct from any existing AlphaSense pipeline entries]
+
+## Added 2026-09-21
+
+- [ ] https://ripple.com/careers/all-jobs/job/8128951/?gh_jid=8128951 | Ripple | Sales Director, OTC [institutional FX/payments/crypto; originates relationships with institutional clients across FX desks and treasury operations; direct analogue to current SGX FX Sales Director role; ⚠️ verify SA remote eligibility — Ripple has flexible hybrid but US-heavy headcount; comp unknown]
+- [ ] https://posthog.com/careers/technical-account-manager-emea | PostHog | Technical Account Manager – EMEA [100% globally distributed ✓; EMEA territory; ⚠️ product analytics SaaS — off-domain; technical sales/implementation knowledge required]
+- [ ] https://web3.career/account-manager-institutional-okx/65574 | OKX | Account Manager, Institutional [top-3 global crypto exchange; institutional client-facing; ⚠️ verify SA remote eligibility; Account Manager seniority may be step down from current Director role]
+- [ ] https://web3.career/institutional-account-management-regional-lead-emea-okx/56505 | OKX | Institutional Account Management, Regional Lead – EMEA [EMEA territory; top-3 global crypto exchange; institutional focus; Regional Lead seniority ✓; ⚠️ verify SA remote eligibility]
+- [ ] https://www.marketaxess.com/careers/current-openings/detail/associate-sales-relationship-manager-4423427006?gh_jid=4395388006 | MarketAxess | Associate Sales Relationship Manager [electronic bond & FX trading platform; strong domain fit (FX/capital markets/electronic trading); ⚠️ NYC-based — verify SA remote eligibility; "Associate" level may be below current Director seniority]
