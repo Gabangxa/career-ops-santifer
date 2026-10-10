@@ -847,3 +847,7 @@
 - [ ] https://weworkremotely.com/remote-jobs/fin-account-executive-enterprise | Fin | Account Executive, Enterprise [AI agent platform; WeWorkRemotely fully remote; Enterprise AE archetype ✓; ⚠️ verify SA remote eligibility and domain relevance — AI/SaaS not core fintech/FX]
 - [ ] https://builtin.com/job/sa-sales-account-manager-forextrading-south-africa/3039667 | Unknown (Builtin SA) | SA Sales Account Manager (Forex/Trading) South Africa [SA explicit ✓; Forex/Trading domain 5/5; ⚠️ verify company name and seniority level — "Account Manager" may be below current Sales Director target; check comp vs ZAR 1.8M walk-away]
 - [ ] https://web3.career/head-of-sales-emea-ledger/47568 | Ledger | Head of Sales EMEA [crypto hardware wallet leader (30M+ users); Head of Sales EMEA seniority ✓; Paris or EMEA remote; ⚠️ $36k–$75k salary listed seems unusually low — verify total comp incl. equity; ⚠️ potentially older listing — confirm still active before applying]
+
+## Added 2026-10-10
+
+- [ ] https://ripple.com/careers/all-jobs/job/7925163/ | Ripple | Senior Customer Partner Success Manager – South Africa [★ 4.45/5 — SA-based (Johannesburg) ✓; Ripple Payments + Custody clients across South Africa and Africa; archetype #3 CSM fit; strong payments/crypto fintech domain; Senior seniority; ⚠️ $72k–$110k USD estimated (~ZAR 1.3M–2.0M) — verify total comp incl. equity vs ZAR 1.8M walk-away; direct overlap with Sokhana's West/Southern Africa institutional client network from Bloomberg era]
