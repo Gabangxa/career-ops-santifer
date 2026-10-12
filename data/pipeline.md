@@ -851,3 +851,11 @@
 ## Added 2026-10-10
 
 - [ ] https://ripple.com/careers/all-jobs/job/7925163/ | Ripple | Senior Customer Partner Success Manager – South Africa [★ 4.45/5 — SA-based (Johannesburg) ✓; Ripple Payments + Custody clients across South Africa and Africa; archetype #3 CSM fit; strong payments/crypto fintech domain; Senior seniority; ⚠️ $72k–$110k USD estimated (~ZAR 1.3M–2.0M) — verify total comp incl. equity vs ZAR 1.8M walk-away; direct overlap with Sokhana's West/Southern Africa institutional client network from Bloomberg era]
+
+## Added 2026-10-12
+
+- [ ] https://cryptojobslist.com/jobs/institutional-sales-director-middle-east-focus-m-f-d-remote-glassnode-europe | Glassnode | Institutional Sales Director, Middle East Focus [100% remote EMEA ✓; crypto market intelligence for hedge funds, asset managers, banks; strong institutional domain fit; ⚠️ Middle East network emphasis — verify if SA-based candidate acceptable within EMEA remit]
+- [ ] https://jobs.lever.co/cmgx/55ddab6a-1e6d-4146-b645-7f966ad4b01e | CMG (Capital Markets Gateway) | Sales Director, Buy-Side EMEA [first international hire for US capital markets fintech; sells to large buy-side institutions; ~£150k–£250k OTE; ⚠️ London hybrid — verify SA remote acceptability; strong domain: capital markets SaaS for institutional investors]
+- [ ] https://jobs.lever.co/cmgx/ee9b9590-c299-4816-813f-f61668e2b614 | CMG (Capital Markets Gateway) | Sales Director, Sell-Side EMEA [mirrors Buy-Side role targeting banks and sell-side; ~£150k–£250k OTE; ⚠️ London hybrid — verify SA remote acceptability; exceptional domain: capital markets SaaS for Tier 1 banks]
+- [ ] https://job-boards.greenhouse.io/workatbackbase/jobs/7480593 | Backbase | Senior Account Executive, Africa [SA/Kenya-based ✓; sells to banks across East & South Africa; 10+ yrs enterprise sales required; ⚠️ Nairobi office hub preferred — hybrid role, not fully remote; strong domain: digital banking SaaS]
+- [ ] https://remotive.com/remote/jobs/customer-service/senior-customer-success-manager-5450215 | Finout | Senior Customer Success Manager [EMEA remote ✓; enterprise named-account book; ⚠️ FinOps/cloud cost management domain, not fintech/FX — lowest priority this scan]
