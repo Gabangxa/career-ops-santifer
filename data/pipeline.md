@@ -859,3 +859,9 @@
 - [ ] https://jobs.lever.co/cmgx/ee9b9590-c299-4816-813f-f61668e2b614 | CMG (Capital Markets Gateway) | Sales Director, Sell-Side EMEA [mirrors Buy-Side role targeting banks and sell-side; ~£150k–£250k OTE; ⚠️ London hybrid — verify SA remote acceptability; exceptional domain: capital markets SaaS for Tier 1 banks]
 - [ ] https://job-boards.greenhouse.io/workatbackbase/jobs/7480593 | Backbase | Senior Account Executive, Africa [SA/Kenya-based ✓; sells to banks across East & South Africa; 10+ yrs enterprise sales required; ⚠️ Nairobi office hub preferred — hybrid role, not fully remote; strong domain: digital banking SaaS]
 - [ ] https://remotive.com/remote/jobs/customer-service/senior-customer-success-manager-5450215 | Finout | Senior Customer Success Manager [EMEA remote ✓; enterprise named-account book; ⚠️ FinOps/cloud cost management domain, not fintech/FX — lowest priority this scan]
+
+## Added 2026-10-13
+
+- [ ] https://web3.career/customer-success-manager-quicknode/107775 | QuickNode | Customer Success Manager [4.00/5 — blockchain infrastructure platform; $144k–$160k USD; globally remote ✓; verify SA eligibility; distinct from Strategic CSM (/30866) and Head of CS (/36103) already in pipeline]
+- [ ] https://web3.career/senior-customer-success-manager-chain/50405 | Chain | Senior Customer Success Manager [4.00/5 — blockchain company; Senior CSM seniority; remote per web3.career; $72k–$110k USD — upper end meets ZAR 1.8M walk-away; verify SA remote eligibility and active status]
+- [ ] https://job-boards.greenhouse.io/picoquantitativetrading/jobs/4410757006 | Pico Quantitative Trading | Sales Director (AMRS) [4.20/5 — financial markets infrastructure; Sales Director archetype #1; ⚠️ AMRS territory — likely US-based, not SA-remote; verify before applying; distinct from Pico SAM (4410746006) and SD (4453254006) already in pipeline]
