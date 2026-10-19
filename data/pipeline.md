@@ -865,3 +865,7 @@
 - [ ] https://web3.career/customer-success-manager-quicknode/107775 | QuickNode | Customer Success Manager [4.00/5 — blockchain infrastructure platform; $144k–$160k USD; globally remote ✓; verify SA eligibility; distinct from Strategic CSM (/30866) and Head of CS (/36103) already in pipeline]
 - [ ] https://web3.career/senior-customer-success-manager-chain/50405 | Chain | Senior Customer Success Manager [4.00/5 — blockchain company; Senior CSM seniority; remote per web3.career; $72k–$110k USD — upper end meets ZAR 1.8M walk-away; verify SA remote eligibility and active status]
 - [ ] https://job-boards.greenhouse.io/picoquantitativetrading/jobs/4410757006 | Pico Quantitative Trading | Sales Director (AMRS) [4.20/5 — financial markets infrastructure; Sales Director archetype #1; ⚠️ AMRS territory — likely US-based, not SA-remote; verify before applying; distinct from Pico SAM (4410746006) and SD (4453254006) already in pipeline]
+
+## Added 2026-10-19
+
+- [ ] https://www.remoterocketship.com/company/valr-2/jobs/head-of-sales-south-africa-remote/ | VALR | Head of Sales [★★ 5.0/5 — largest SA crypto exchange (Johannesburg); SA-remote explicitly ✓; Head of Sales archetype #2; owns global sales strategy + institutional/enterprise/payments/B2B GTM; backed by Pantera Capital, Coinbase Ventures, Fidelity F-Prime; ⚠️ verify directly at https://www.valr.com/careers — aggregator URL may be stale; never previously scanned]
