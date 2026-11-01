@@ -898,3 +898,11 @@
 - [ ] https://job-boards.greenhouse.io/btig27/jobs/7815467002 | BTIG | (title to verify) [same caveat as 7985108002 above — distinct listing ID to check]
 - [ ] https://job-boards.greenhouse.io/blockchain/jobs/8046206 | Blockchain.com | (title to verify) [crypto exchange; verify title — Blockchain.com has institutional sales and CSM roles; multiple entries already in pipeline]
 - [ ] https://job-boards.greenhouse.io/alpaca/jobs/6140664004 | Alpaca | Customer Success Manager [lowest priority — 6th Alpaca CSM variant in pipeline; add only as placeholder; evaluate only after all prior Alpaca entries cleared]
+
+## Added 2026-11-01
+
+- [ ] https://job-boards.greenhouse.io/picoquantitativetrading/jobs/4410757006 | Pico | Sales Director [4.40/5 — capital markets data & managed infra for banks + electronic trading firms; Director seniority; $175k–$200k USD; ⚠️ NYC hybrid — verify if SA remote possible given Pico's Dublin remote-considered precedent]
+- [ ] https://remotive.com/remote/jobs/sales/senior-director-sales-5210703 | Customer.io | Senior Director, Sales [4.25/5 — $350k OTE; fully remote ✓; leads EMEA sales team; ⚠️ marketing automation SaaS not fintech — strong seniority + comp; distinct from Director of Sales (7904660) in pipeline]
+- [ ] https://boards.greenhouse.io/alpaca/jobs/5505552004 | Alpaca | Customer Success Manager, Europe [4.20/5 — trading API fintech (stocks/ETFs/FX/crypto/FI); EMEA remote ✓; ⚠️ verify not dup of CSM-EMEA (5670974004) already in pipeline — new Greenhouse ID suggests separate territory]
+- [ ] https://job-boards.greenhouse.io/episodesixlinkedin/jobs/5425812004 | Episode Six | Sales Director [4.15/5 — payments infrastructure for banks and card issuers; ⚠️ US team — verify SA global remote eligibility; distinct from Senior BA (5799337004) in pipeline]
+- [ ] https://remotive.com/remote/jobs/sales/senior-account-executive-6341367 | Veriff | Senior Account Executive, EMEA [3.95/5 — identity verification SaaS selling to fintechs, banks, crypto exchanges; EMEA remote ✓; posted Oct 22, 2026; 5+ yrs enterprise SaaS sales required]
