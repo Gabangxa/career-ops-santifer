@@ -928,6 +928,13 @@
 - [ ] https://remotive.com/remote/jobs/sales/head-of-sales-6343947 | Imagetwin | Head of Sales [⚠️ verify SA eligibility — AI research integrity platform, not fintech; Head of Sales seniority ✓]
 - [ ] https://remoterecruitment631373.teamtailor.com/jobs/7745013-customer-success-manager | Remote Recruitment (SA) | Customer Success Manager [SA ✓ — SA-based, UK employer; R30k/month; ⚠️ verify domain and company type]
 
+## Added 2026-11-07
+
+- [ ] https://web3.career/director-of-sales-mea-gk8bygalaxy/136740 | GK8/Galaxy | Director of Sales, MEA [★★ 5.0/5 — MEA territory explicitly includes SA base ✓; institutional MPC custody platform (GK8 = Galaxy's custody solution); Director seniority ✓; strong archetype + domain + geography alignment; evaluate immediately]
+- [ ] https://www.workingnomads.com/jobs/senior-sales-lead-custody-wealth-management-kraken | Kraken | Senior Sales Lead, Custody & Wealth Management [4.6/5 — Kraken Custody targeting institutional investors; SA listed as eligible location; Senior IC (not Director); 5 other Kraken roles already in pipeline — this is a distinct custody+wealth-specific listing; ⚠️ verify exact SA remote eligibility and OTE comp]
+- [ ] https://remotive.com/remote/jobs/sales/director-of-sales-6289672 | RootstockLabs | Director of Sales [$200k–$250k USD; Director seniority ✓; institutional sales for Bitcoin Layer 2 / DeFi ecosystem; ⚠️ Europe/LATAM regions listed — verify if SA candidates considered; strong comp floor]
+- [ ] https://remotive.com/remote/jobs/sales/institutional-sales-lead-6257373 | RootstockLabs | Institutional Sales Lead [$130k–$180k USD; institutional blockchain/DeFi sales; Lead seniority; ⚠️ LATAM/Europe listed — verify SA eligibility; companion listing to Director above — evaluate together]
+
 ## Added 2026-11-04
 
 - [ ] https://zero-hash.breezy.hr/p/e9d6291c8998-director-enterprise-sales-payments | Zero Hash | Director of Enterprise Sales, Payments [⚠️ verify SA eligibility — US-primary team; crypto payments/stablecoin B2B infrastructure; Director seniority ✓; score 4.15/5]
