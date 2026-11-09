@@ -938,3 +938,9 @@
 ## Added 2026-11-04
 
 - [ ] https://zero-hash.breezy.hr/p/e9d6291c8998-director-enterprise-sales-payments | Zero Hash | Director of Enterprise Sales, Payments [⚠️ verify SA eligibility — US-primary team; crypto payments/stablecoin B2B infrastructure; Director seniority ✓; score 4.15/5]
+
+## Added 2026-11-09
+
+- [ ] https://job-boards.greenhouse.io/ozow/jobs/7544685003 | Ozow | Senior Business Development Manager [SA ✓ — Cape Town, SA-based EFT payments company; BD seniority ✓; strong SA enterprise sales profile]
+- [ ] https://cryptojobslist.com/jobs/head-of-institutional-sales-nethermind-remote | Nethermind | Head of Institutional Sales [⚠️ verify SA eligibility — remote; Ethereum infrastructure/blockchain; Head of Sales seniority ✓; institutional focus ✓]
+- [ ] https://remotive.com/remote/jobs/sales/forex-cfd-sales-and-business-development-4963139 | Emerald Zebra | Forex/CFD Sales and Business Development [SA ✓ — Africa eligible; FX/fintech domain ✓; $2k–$6k base + bonus; ⚠️ verify comp and seniority level]
