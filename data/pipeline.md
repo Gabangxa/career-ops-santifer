@@ -944,3 +944,12 @@
 - [ ] https://job-boards.greenhouse.io/ozow/jobs/7544685003 | Ozow | Senior Business Development Manager [SA ✓ — Cape Town, SA-based EFT payments company; BD seniority ✓; strong SA enterprise sales profile]
 - [ ] https://cryptojobslist.com/jobs/head-of-institutional-sales-nethermind-remote | Nethermind | Head of Institutional Sales [⚠️ verify SA eligibility — remote; Ethereum infrastructure/blockchain; Head of Sales seniority ✓; institutional focus ✓]
 - [ ] https://remotive.com/remote/jobs/sales/forex-cfd-sales-and-business-development-4963139 | Emerald Zebra | Forex/CFD Sales and Business Development [SA ✓ — Africa eligible; FX/fintech domain ✓; $2k–$6k base + bonus; ⚠️ verify comp and seniority level]
+
+## Added 2026-11-13
+
+- [ ] https://job-boards.greenhouse.io/trmlabs/jobs/4459331004 | TRM Labs | Account Manager, EMEA Private Sector [4.20/5 — blockchain analytics/crypto compliance (like Chainalysis); EMEA remote ✓; Account Manager archetype #3; serves financial institutions, fintechs, and enterprises in EMEA]
+- [ ] https://job-boards.greenhouse.io/blockstream/jobs/6898514 | Blockstream | Account Executive, Europe (Remote) [4.15/5 — Bitcoin/blockchain infrastructure; Europe remote ✓; AE archetype #1; serves financial institutions and enterprises; ⚠️ verify if Europe-only or globally remote eligible for SA]
+- [ ] https://remotive.com/remote/jobs/sales/enterprise-sales-director-6123606 | Provenir | Enterprise Sales Director [4.15/5 — fintech risk decisioning SaaS for banks and fintechs; Director seniority ✓; ⚠️ UK-listed location — verify SA remote eligibility before applying]
+- [ ] https://remotive.com/remote/jobs/customer-service/senior-customer-success-manager-6096112 | saas.group | Senior Customer Success Manager [3.75/5 — SaaS holding company; EMEA remote ✓; Senior CSM archetype #3; ⚠️ generic SaaS domain, not fintech-specific]
+- [ ] https://remotive.com/remote/jobs/customer-service/customer-success-technical-account-manager-5884008 | Assertive Yield | Customer Success Technical Account Manager [3.70/5 — ad-tech SaaS; Southern Africa explicitly eligible; ⚠️ ad-tech domain, not fintech — deprioritise unless pipeline is thin]
+- [ ] https://consensys.io/open-roles/5924784 | Consensys | Product Alignment Manager, Customer Success [3.65/5 — Ethereum/Web3 blockchain; EMEA remote ✓; Customer Success role with product alignment focus; ⚠️ not pure sales/CS — verify comp range vs ZAR 1.8M walk-away]
